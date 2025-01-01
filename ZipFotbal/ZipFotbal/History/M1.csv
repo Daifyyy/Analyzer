@@ -1,0 +1,1027 @@
+Country,League,Season,Date,Time,TeamHome,TeamAway,FTHG,FTAG,Res
+Mexico,Liga MX,2022/2023,5/29/2023,2:35,Guadalajara Chivas,U.A.N.L.- Tigres,2,3,A
+Mexico,Liga MX,2022/2023,5/26/2023,3:00,U.A.N.L.- Tigres,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2022/2023,5/22/2023,3:00,Club America,Guadalajara Chivas,1,3,A
+Mexico,Liga MX,2022/2023,5/21/2023,2:06,Monterrey,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,5/19/2023,3:10,Guadalajara Chivas,Club America,0,1,A
+Mexico,Liga MX,2022/2023,5/18/2023,4:00,U.A.N.L.- Tigres,Monterrey,1,1,D
+Mexico,Liga MX,2022/2023,5/15/2023,2:07,Guadalajara Chivas,Atlas,1,0,H
+Mexico,Liga MX,2022/2023,5/14/2023,2:06,Monterrey,Santos Laguna,2,0,H
+Mexico,Liga MX,2022/2023,5/14/2023,4:16,Club America,Atl. San Luis,1,2,A
+Mexico,Liga MX,2022/2023,5/14/2023,19:00,Toluca,U.A.N.L.- Tigres,3,1,H
+Mexico,Liga MX,2022/2023,5/12/2023,2:00,Atlas,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2022/2023,5/12/2023,4:10,U.A.N.L.- Tigres,Toluca,4,1,H
+Mexico,Liga MX,2022/2023,5/11/2023,2:00,Santos Laguna,Monterrey,0,0,D
+Mexico,Liga MX,2022/2023,5/11/2023,4:10,Atl. San Luis,Club America,1,3,A
+Mexico,Liga MX,2022/2023,5/8/2023,2:06,Club Leon,Atl. San Luis,1,3,A
+Mexico,Liga MX,2022/2023,5/8/2023,4:10,U.A.N.L.- Tigres,Puebla,1,0,H
+Mexico,Liga MX,2022/2023,5/7/2023,0:00,Cruz Azul,Atlas,0,1,A
+Mexico,Liga MX,2022/2023,5/7/2023,2:10,Pachuca,Santos Laguna,4,4,D
+Mexico,Liga MX,2022/2023,5/1/2023,0:00,Queretaro,Pachuca,0,1,A
+Mexico,Liga MX,2022/2023,5/1/2023,2:05,Club Leon,U.A.N.L.- Tigres,3,0,H
+Mexico,Liga MX,2022/2023,4/30/2023,0:00,Puebla,Club Tijuana,5,2,H
+Mexico,Liga MX,2022/2023,4/30/2023,2:00,Atl. San Luis,Atlas,0,0,D
+Mexico,Liga MX,2022/2023,4/30/2023,2:05,Guadalajara Chivas,Mazatlan FC,4,1,H
+Mexico,Liga MX,2022/2023,4/30/2023,2:05,Monterrey,U.N.A.M.- Pumas,4,1,H
+Mexico,Liga MX,2022/2023,4/30/2023,4:05,Cruz Azul,Santos Laguna,3,2,H
+Mexico,Liga MX,2022/2023,4/30/2023,19:00,Toluca,Necaxa,3,0,H
+Mexico,Liga MX,2022/2023,4/29/2023,4:05,Juarez,Club America,0,1,A
+Mexico,Liga MX,2022/2023,4/24/2023,2:05,Santos Laguna,Queretaro,0,2,A
+Mexico,Liga MX,2022/2023,4/23/2023,0:00,Pachuca,Atl. San Luis,2,1,H
+Mexico,Liga MX,2022/2023,4/23/2023,2:05,Guadalajara Chivas,Cruz Azul,2,1,H
+Mexico,Liga MX,2022/2023,4/23/2023,4:10,Club America,U.N.A.M.- Pumas,1,1,D
+Mexico,Liga MX,2022/2023,4/23/2023,19:00,Toluca,Juarez,1,1,D
+Mexico,Liga MX,2022/2023,4/22/2023,2:00,Mazatlan FC,Monterrey,0,2,A
+Mexico,Liga MX,2022/2023,4/22/2023,2:05,Necaxa,Atlas,1,3,A
+Mexico,Liga MX,2022/2023,4/22/2023,4:15,Club Tijuana,Club Leon,0,0,D
+Mexico,Liga MX,2022/2023,4/21/2023,3:05,U.A.N.L.- Tigres,Puebla,1,0,H
+Mexico,Liga MX,2022/2023,4/17/2023,0:00,Queretaro,U.A.N.L.- Tigres,0,0,D
+Mexico,Liga MX,2022/2023,4/17/2023,2:10,Monterrey,Santos Laguna,1,2,A
+Mexico,Liga MX,2022/2023,4/16/2023,0:00,Atlas,Pachuca,4,1,H
+Mexico,Liga MX,2022/2023,4/16/2023,2:05,Club Leon,Guadalajara Chivas,0,2,A
+Mexico,Liga MX,2022/2023,4/16/2023,4:10,Cruz Azul,Club America,1,3,A
+Mexico,Liga MX,2022/2023,4/16/2023,19:00,U.N.A.M.- Pumas,Toluca,3,1,H
+Mexico,Liga MX,2022/2023,4/15/2023,2:05,Necaxa,Puebla,1,1,D
+Mexico,Liga MX,2022/2023,4/15/2023,4:05,Mazatlan FC,Club Tijuana,1,2,A
+Mexico,Liga MX,2022/2023,4/14/2023,4:05,Atl. San Luis,Juarez,2,0,H
+Mexico,Liga MX,2022/2023,4/10/2023,1:05,Santos Laguna,Pachuca,1,4,A
+Mexico,Liga MX,2022/2023,4/10/2023,3:10,Juarez,Atlas,1,1,D
+Mexico,Liga MX,2022/2023,4/9/2023,0:05,Guadalajara Chivas,Necaxa,1,0,H
+Mexico,Liga MX,2022/2023,4/9/2023,2:05,Club Leon,Cruz Azul,0,0,D
+Mexico,Liga MX,2022/2023,4/9/2023,2:05,U.A.N.L.- Tigres,Mazatlan FC,1,2,A
+Mexico,Liga MX,2022/2023,4/9/2023,4:10,Club America,Monterrey,2,1,H
+Mexico,Liga MX,2022/2023,4/9/2023,19:00,U.N.A.M.- Pumas,Atl. San Luis,3,1,H
+Mexico,Liga MX,2022/2023,4/8/2023,2:05,Puebla,Toluca,1,2,A
+Mexico,Liga MX,2022/2023,4/8/2023,4:10,Club Tijuana,Queretaro,1,2,A
+Mexico,Liga MX,2022/2023,4/3/2023,0:00,Atl. San Luis,Mazatlan FC,2,1,H
+Mexico,Liga MX,2022/2023,4/3/2023,2:05,Queretaro,U.N.A.M.- Pumas,1,0,H
+Mexico,Liga MX,2022/2023,4/2/2023,0:00,Pachuca,Cruz Azul,0,2,A
+Mexico,Liga MX,2022/2023,4/2/2023,2:05,Club America,Club Leon,2,2,D
+Mexico,Liga MX,2022/2023,4/2/2023,2:15,Monterrey,Club Tijuana,4,0,H
+Mexico,Liga MX,2022/2023,4/2/2023,4:10,Atlas,Guadalajara Chivas,3,3,D
+Mexico,Liga MX,2022/2023,4/2/2023,19:00,Toluca,U.A.N.L.- Tigres,3,2,H
+Mexico,Liga MX,2022/2023,4/1/2023,2:05,Necaxa,Santos Laguna,0,0,D
+Mexico,Liga MX,2022/2023,4/1/2023,4:00,Juarez,Puebla,0,2,A
+Mexico,Liga MX,2022/2023,3/30/2023,4:05,Queretaro,Cruz Azul,2,2,D
+Mexico,Liga MX,2022/2023,3/25/2023,3:05,Mazatlan FC,Club Leon,1,2,A
+Mexico,Liga MX,2022/2023,3/20/2023,1:05,Queretaro,Juarez,2,2,D
+Mexico,Liga MX,2022/2023,3/20/2023,3:05,Club Leon,Santos Laguna,4,1,H
+Mexico,Liga MX,2022/2023,3/19/2023,1:05,U.A.N.L.- Tigres,Monterrey,0,1,A
+Mexico,Liga MX,2022/2023,3/19/2023,3:10,Guadalajara Chivas,Club America,2,4,A
+Mexico,Liga MX,2022/2023,3/19/2023,18:00,U.N.A.M.- Pumas,Pachuca,0,2,A
+Mexico,Liga MX,2022/2023,3/18/2023,1:00,Puebla,Atlas,0,4,A
+Mexico,Liga MX,2022/2023,3/18/2023,3:05,Club Tijuana,Toluca,3,3,D
+Mexico,Liga MX,2022/2023,3/18/2023,3:10,Mazatlan FC,Necaxa,0,1,A
+Mexico,Liga MX,2022/2023,3/18/2023,23:00,Cruz Azul,Atl. San Luis,1,0,H
+Mexico,Liga MX,2022/2023,3/13/2023,1:05,Pachuca,Monterrey,1,2,A
+Mexico,Liga MX,2022/2023,3/13/2023,1:05,Santos Laguna,Club Tijuana,3,2,H
+Mexico,Liga MX,2022/2023,3/13/2023,3:15,Juarez,Necaxa,1,1,D
+Mexico,Liga MX,2022/2023,3/12/2023,1:05,Cruz Azul,U.N.A.M.- Pumas,1,0,H
+Mexico,Liga MX,2022/2023,3/12/2023,3:10,U.A.N.L.- Tigres,Club America,0,2,A
+Mexico,Liga MX,2022/2023,3/12/2023,18:00,Toluca,Mazatlan FC,4,1,H
+Mexico,Liga MX,2022/2023,3/11/2023,1:05,Atl. San Luis,Queretaro,2,0,H
+Mexico,Liga MX,2022/2023,3/11/2023,3:05,Puebla,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2022/2023,3/11/2023,23:00,Atlas,Club Leon,0,1,A
+Mexico,Liga MX,2022/2023,3/6/2023,1:05,Queretaro,Toluca,1,0,H
+Mexico,Liga MX,2022/2023,3/5/2023,1:05,Club America,Pachuca,0,3,A
+Mexico,Liga MX,2022/2023,3/5/2023,1:10,Monterrey,Juarez,3,0,H
+Mexico,Liga MX,2022/2023,3/5/2023,3:05,Guadalajara Chivas,Santos Laguna,2,0,H
+Mexico,Liga MX,2022/2023,3/5/2023,18:00,U.N.A.M.- Pumas,Puebla,2,4,A
+Mexico,Liga MX,2022/2023,3/4/2023,1:05,Mazatlan FC,Cruz Azul,3,1,H
+Mexico,Liga MX,2022/2023,3/4/2023,1:05,Necaxa,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,3/4/2023,3:15,Club Tijuana,Atlas,1,1,D
+Mexico,Liga MX,2022/2023,3/4/2023,23:00,Club Leon,Atl. San Luis,2,0,H
+Mexico,Liga MX,2022/2023,2/28/2023,3:10,Club Leon,Monterrey,1,1,D
+Mexico,Liga MX,2022/2023,2/27/2023,1:05,Santos Laguna,Puebla,3,2,H
+Mexico,Liga MX,2022/2023,2/27/2023,3:05,Club Tijuana,Pachuca,2,0,H
+Mexico,Liga MX,2022/2023,2/26/2023,1:05,U.A.N.L.- Tigres,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2022/2023,2/26/2023,3:05,Atlas,Club America,2,2,D
+Mexico,Liga MX,2022/2023,2/26/2023,18:00,Toluca,Atl. San Luis,2,0,H
+Mexico,Liga MX,2022/2023,2/25/2023,1:05,Necaxa,Queretaro,1,1,D
+Mexico,Liga MX,2022/2023,2/25/2023,3:10,Mazatlan FC,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2022/2023,2/25/2023,23:00,Cruz Azul,Juarez,1,0,H
+Mexico,Liga MX,2022/2023,2/24/2023,2:05,Santos Laguna,Toluca,0,5,A
+Mexico,Liga MX,2022/2023,2/23/2023,2:05,Cruz Azul,Atlas,1,0,H
+Mexico,Liga MX,2022/2023,2/20/2023,1:05,Club America,Club Tijuana,2,1,H
+Mexico,Liga MX,2022/2023,2/20/2023,3:05,Pachuca,Toluca,1,2,A
+Mexico,Liga MX,2022/2023,2/19/2023,1:05,Atlas,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,2/19/2023,3:05,U.N.A.M.- Pumas,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2022/2023,2/19/2023,23:00,Queretaro,Mazatlan FC,1,1,D
+Mexico,Liga MX,2022/2023,2/18/2023,1:06,Juarez,Club Leon,0,0,D
+Mexico,Liga MX,2022/2023,2/18/2023,3:05,Puebla,Cruz Azul,1,3,A
+Mexico,Liga MX,2022/2023,2/18/2023,23:00,Atl. San Luis,Santos Laguna,1,1,D
+Mexico,Liga MX,2022/2023,2/18/2023,23:06,Monterrey,Necaxa,2,1,H
+Mexico,Liga MX,2022/2023,2/17/2023,3:00,Mazatlan FC,Pachuca,2,3,A
+Mexico,Liga MX,2022/2023,2/16/2023,1:05,Guadalajara Chivas,Club Tijuana,2,1,H
+Mexico,Liga MX,2022/2023,2/16/2023,1:05,Monterrey,Queretaro,2,0,H
+Mexico,Liga MX,2022/2023,2/16/2023,3:05,Necaxa,U.N.A.M.- Pumas,3,1,H
+Mexico,Liga MX,2022/2023,2/15/2023,1:05,Club Leon,Puebla,2,0,H
+Mexico,Liga MX,2022/2023,2/15/2023,1:05,U.A.N.L.- Tigres,Juarez,0,0,D
+Mexico,Liga MX,2022/2023,2/15/2023,3:05,Atl. San Luis,Club America,1,3,A
+Mexico,Liga MX,2022/2023,2/12/2023,1:05,Juarez,Santos Laguna,3,1,H
+Mexico,Liga MX,2022/2023,2/12/2023,1:05,U.A.N.L.- Tigres,U.N.A.M.- Pumas,4,2,H
+Mexico,Liga MX,2022/2023,2/12/2023,3:05,Pachuca,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2022/2023,2/12/2023,18:00,Toluca,Cruz Azul,3,1,H
+Mexico,Liga MX,2022/2023,2/11/2023,1:00,Puebla,Mazatlan FC,3,1,H
+Mexico,Liga MX,2022/2023,2/11/2023,3:10,Club Tijuana,Atl. San Luis,1,0,H
+Mexico,Liga MX,2022/2023,2/11/2023,23:00,Club America,Necaxa,2,1,H
+Mexico,Liga MX,2022/2023,2/10/2023,1:05,Queretaro,Club Leon,0,3,A
+Mexico,Liga MX,2022/2023,2/10/2023,3:05,Atlas,Monterrey,0,2,A
+Mexico,Liga MX,2022/2023,2/6/2023,1:10,Monterrey,Toluca,2,1,H
+Mexico,Liga MX,2022/2023,2/5/2023,1:05,Cruz Azul,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,2/5/2023,3:05,Santos Laguna,Club America,2,2,D
+Mexico,Liga MX,2022/2023,2/5/2023,18:00,U.N.A.M.- Pumas,Atlas,2,2,D
+Mexico,Liga MX,2022/2023,2/5/2023,23:05,Guadalajara Chivas,Queretaro,1,1,D
+Mexico,Liga MX,2022/2023,2/4/2023,1:00,Necaxa,Club Tijuana,1,1,D
+Mexico,Liga MX,2022/2023,2/4/2023,3:05,Mazatlan FC,Juarez,2,3,A
+Mexico,Liga MX,2022/2023,2/4/2023,23:00,Club Leon,Pachuca,0,1,A
+Mexico,Liga MX,2022/2023,2/3/2023,3:00,Atl. San Luis,Puebla,2,0,H
+Mexico,Liga MX,2022/2023,2/2/2023,2:05,Atlas,Toluca,0,0,D
+Mexico,Liga MX,2022/2023,1/30/2023,1:00,Pachuca,Necaxa,2,1,H
+Mexico,Liga MX,2022/2023,1/29/2023,1:05,U.A.N.L.- Tigres,Atl. San Luis,0,0,D
+Mexico,Liga MX,2022/2023,1/29/2023,3:05,Club America,Mazatlan FC,6,0,H
+Mexico,Liga MX,2022/2023,1/29/2023,3:05,Juarez,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2022/2023,1/29/2023,18:00,Toluca,Club Leon,0,0,D
+Mexico,Liga MX,2022/2023,1/28/2023,1:05,Puebla,Monterrey,1,2,A
+Mexico,Liga MX,2022/2023,1/28/2023,3:05,Club Tijuana,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2022/2023,1/27/2023,3:05,Atlas,Santos Laguna,2,2,D
+Mexico,Liga MX,2022/2023,1/23/2023,1:10,Pachuca,Juarez,4,1,H
+Mexico,Liga MX,2022/2023,1/22/2023,1:10,Club America,Puebla,2,2,D
+Mexico,Liga MX,2022/2023,1/22/2023,3:10,Guadalajara Chivas,Toluca,1,2,A
+Mexico,Liga MX,2022/2023,1/22/2023,3:10,Necaxa,Cruz Azul,1,0,H
+Mexico,Liga MX,2022/2023,1/22/2023,18:00,U.N.A.M.- Pumas,Club Leon,4,1,H
+Mexico,Liga MX,2022/2023,1/22/2023,23:00,Queretaro,Atlas,3,3,D
+Mexico,Liga MX,2022/2023,1/21/2023,3:00,Mazatlan FC,Santos Laguna,1,2,A
+Mexico,Liga MX,2022/2023,1/21/2023,3:10,Club Tijuana,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2022/2023,1/21/2023,23:06,Monterrey,Atl. San Luis,3,1,H
+Mexico,Liga MX,2022/2023,1/17/2023,3:05,Club Leon,Necaxa,2,1,H
+Mexico,Liga MX,2022/2023,1/16/2023,1:05,U.A.N.L.- Tigres,Pachuca,4,1,H
+Mexico,Liga MX,2022/2023,1/15/2023,1:05,Juarez,Club Tijuana,3,0,H
+Mexico,Liga MX,2022/2023,1/15/2023,1:05,Toluca,Club America,2,2,D
+Mexico,Liga MX,2022/2023,1/15/2023,3:05,Santos Laguna,U.N.A.M.- Pumas,3,0,H
+Mexico,Liga MX,2022/2023,1/14/2023,1:05,Atl. San Luis,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2022/2023,1/14/2023,3:05,Puebla,Queretaro,2,0,H
+Mexico,Liga MX,2022/2023,1/14/2023,23:00,Cruz Azul,Monterrey,2,3,A
+Mexico,Liga MX,2022/2023,1/13/2023,3:05,Atlas,Mazatlan FC,2,1,H
+Mexico,Liga MX,2022/2023,1/10/2023,3:10,Pachuca,Puebla,5,1,H
+Mexico,Liga MX,2022/2023,1/9/2023,1:00,Santos Laguna,U.A.N.L.- Tigres,0,3,A
+Mexico,Liga MX,2022/2023,1/9/2023,3:10,Club Tijuana,Cruz Azul,1,1,D
+Mexico,Liga MX,2022/2023,1/8/2023,3:10,Monterrey,Guadalajara Chivas,0,1,A
+Mexico,Liga MX,2022/2023,1/8/2023,18:00,U.N.A.M.- Pumas,Juarez,2,1,H
+Mexico,Liga MX,2022/2023,1/7/2023,1:00,Necaxa,Atl. San Luis,2,3,A
+Mexico,Liga MX,2022/2023,1/7/2023,23:00,Club America,Queretaro,0,0,D
+Mexico,Liga MX,2022/2023,10/31/2022,1:36,Pachuca,Toluca,3,1,H
+Mexico,Liga MX,2022/2023,10/28/2022,2:06,Toluca,Pachuca,1,5,A
+Mexico,Liga MX,2022/2023,10/24/2022,2:06,Monterrey,Pachuca,0,1,A
+Mexico,Liga MX,2022/2023,10/23/2022,2:06,Club America,Toluca,1,1,D
+Mexico,Liga MX,2022/2023,10/21/2022,3:06,Pachuca,Monterrey,5,2,H
+Mexico,Liga MX,2022/2023,10/20/2022,3:06,Toluca,Club America,2,1,H
+Mexico,Liga MX,2022/2023,10/17/2022,1:06,Santos Laguna,Toluca,1,2,A
+Mexico,Liga MX,2022/2023,10/17/2022,3:06,Pachuca,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2022/2023,10/16/2022,0:06,Monterrey,Cruz Azul,3,0,H
+Mexico,Liga MX,2022/2023,10/16/2022,2:06,Club America,Puebla,5,1,H
+Mexico,Liga MX,2022/2023,10/14/2022,1:06,Toluca,Santos Laguna,4,3,H
+Mexico,Liga MX,2022/2023,10/14/2022,3:06,U.A.N.L.- Tigres,Pachuca,1,0,H
+Mexico,Liga MX,2022/2023,10/13/2022,1:06,Puebla,Club America,1,6,A
+Mexico,Liga MX,2022/2023,10/13/2022,3:06,Cruz Azul,Monterrey,0,0,D
+Mexico,Liga MX,2022/2023,10/9/2022,1:00,U.A.N.L.- Tigres,Necaxa,2,0,H
+Mexico,Liga MX,2022/2023,10/9/2022,3:15,Cruz Azul,Club Leon,1,0,H
+Mexico,Liga MX,2022/2023,10/9/2022,18:00,Toluca,Juarez,3,0,H
+Mexico,Liga MX,2022/2023,10/9/2022,22:30,Puebla,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2022/2023,10/3/2022,0:05,Santos Laguna,Mazatlan FC,3,0,H
+Mexico,Liga MX,2022/2023,10/3/2022,2:00,Club Leon,Club Tijuana,2,2,D
+Mexico,Liga MX,2022/2023,10/2/2022,1:05,Atlas,Necaxa,1,0,H
+Mexico,Liga MX,2022/2023,10/2/2022,3:05,Cruz Azul,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2022/2023,10/2/2022,18:00,Toluca,Queretaro,4,1,H
+Mexico,Liga MX,2022/2023,10/1/2022,1:00,Puebla,Club America,1,2,A
+Mexico,Liga MX,2022/2023,10/1/2022,3:00,Juarez,U.N.A.M.- Pumas,3,1,H
+Mexico,Liga MX,2022/2023,10/1/2022,23:00,Atl. San Luis,U.A.N.L.- Tigres,0,3,A
+Mexico,Liga MX,2022/2023,10/1/2022,23:05,Monterrey,Pachuca,0,0,D
+Mexico,Liga MX,2022/2023,9/24/2022,1:00,Necaxa,Mazatlan FC,2,2,D
+Mexico,Liga MX,2022/2023,9/24/2022,3:05,Puebla,U.N.A.M.- Pumas,2,1,H
+Mexico,Liga MX,2022/2023,9/19/2022,1:05,Club Leon,Queretaro,3,1,H
+Mexico,Liga MX,2022/2023,9/19/2022,1:05,Santos Laguna,Juarez,2,0,H
+Mexico,Liga MX,2022/2023,9/19/2022,3:00,Atl. San Luis,Pachuca,1,2,A
+Mexico,Liga MX,2022/2023,9/19/2022,3:05,Club Tijuana,Necaxa,1,1,D
+Mexico,Liga MX,2022/2023,9/18/2022,1:05,Monterrey,Atlas,2,0,H
+Mexico,Liga MX,2022/2023,9/18/2022,2:00,Club America,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2022/2023,9/18/2022,23:00,U.N.A.M.- Pumas,Cruz Azul,1,2,A
+Mexico,Liga MX,2022/2023,9/17/2022,1:00,Puebla,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2022/2023,9/17/2022,3:00,Mazatlan FC,Toluca,1,1,D
+Mexico,Liga MX,2022/2023,9/16/2022,1:00,Cruz Azul,Club Leon,2,1,H
+Mexico,Liga MX,2022/2023,9/15/2022,3:05,Club America,Santos Laguna,3,3,D
+Mexico,Liga MX,2022/2023,9/15/2022,3:05,Juarez,Pachuca,2,1,H
+Mexico,Liga MX,2022/2023,9/14/2022,3:00,Guadalajara Chivas,U.A.N.L.- Tigres,1,4,A
+Mexico,Liga MX,2022/2023,9/12/2022,0:05,Atlas,Atl. San Luis,1,3,A
+Mexico,Liga MX,2022/2023,9/12/2022,2:05,Pachuca,Club Tijuana,6,1,H
+Mexico,Liga MX,2022/2023,9/11/2022,1:00,Necaxa,Club America,1,2,A
+Mexico,Liga MX,2022/2023,9/11/2022,1:05,U.A.N.L.- Tigres,Club Leon,0,1,A
+Mexico,Liga MX,2022/2023,9/11/2022,3:05,Guadalajara Chivas,Puebla,1,0,H
+Mexico,Liga MX,2022/2023,9/11/2022,3:05,Toluca,U.N.A.M.- Pumas,2,2,D
+Mexico,Liga MX,2022/2023,9/11/2022,22:00,Cruz Azul,Mazatlan FC,2,0,H
+Mexico,Liga MX,2022/2023,9/10/2022,3:05,Juarez,Monterrey,0,1,A
+Mexico,Liga MX,2022/2023,9/10/2022,23:00,Queretaro,Santos Laguna,3,3,D
+Mexico,Liga MX,2022/2023,9/8/2022,1:00,Puebla,Pachuca,2,2,D
+Mexico,Liga MX,2022/2023,9/8/2022,1:00,U.A.N.L.- Tigres,Toluca,3,1,H
+Mexico,Liga MX,2022/2023,9/8/2022,3:00,Mazatlan FC,Atlas,1,0,H
+Mexico,Liga MX,2022/2023,9/8/2022,3:05,Club Tijuana,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2022/2023,9/8/2022,3:05,U.N.A.M.- Pumas,Queretaro,4,1,H
+Mexico,Liga MX,2022/2023,9/7/2022,1:00,Club Leon,Juarez,1,0,H
+Mexico,Liga MX,2022/2023,9/7/2022,1:05,Santos Laguna,Necaxa,3,1,H
+Mexico,Liga MX,2022/2023,9/7/2022,3:05,Club America,Atl. San Luis,3,0,H
+Mexico,Liga MX,2022/2023,9/7/2022,3:05,Monterrey,Cruz Azul,3,2,H
+Mexico,Liga MX,2022/2023,9/4/2022,1:05,Atlas,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2022/2023,9/4/2022,1:05,Monterrey,Mazatlan FC,0,0,D
+Mexico,Liga MX,2022/2023,9/4/2022,3:05,Club America,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2022/2023,9/4/2022,23:30,Toluca,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2022/2023,9/3/2022,1:00,Necaxa,Club Leon,3,2,H
+Mexico,Liga MX,2022/2023,9/3/2022,3:05,Juarez,Cruz Azul,2,2,D
+Mexico,Liga MX,2022/2023,9/3/2022,23:05,Pachuca,Santos Laguna,2,0,H
+Mexico,Liga MX,2022/2023,9/2/2022,1:00,Atl. San Luis,Club Tijuana,0,0,D
+Mexico,Liga MX,2022/2023,9/2/2022,3:05,Queretaro,Puebla,1,1,D
+Mexico,Liga MX,2022/2023,8/29/2022,1:00,Club Leon,Atlas,4,2,H
+Mexico,Liga MX,2022/2023,8/29/2022,1:05,Santos Laguna,Atl. San Luis,4,1,H
+Mexico,Liga MX,2022/2023,8/29/2022,3:05,Club Tijuana,Monterrey,0,3,A
+Mexico,Liga MX,2022/2023,8/28/2022,1:05,U.A.N.L.- Tigres,Necaxa,0,0,D
+Mexico,Liga MX,2022/2023,8/28/2022,3:05,Guadalajara Chivas,U.N.A.M.- Pumas,3,1,H
+Mexico,Liga MX,2022/2023,8/28/2022,18:00,Toluca,Pachuca,1,4,A
+Mexico,Liga MX,2022/2023,8/27/2022,1:00,Puebla,Juarez,2,2,D
+Mexico,Liga MX,2022/2023,8/27/2022,3:05,Mazatlan FC,Club America,1,3,A
+Mexico,Liga MX,2022/2023,8/27/2022,23:00,Cruz Azul,Queretaro,2,1,H
+Mexico,Liga MX,2022/2023,8/26/2022,1:05,Pachuca,Atlas,3,1,H
+Mexico,Liga MX,2022/2023,8/26/2022,3:05,Club Tijuana,Santos Laguna,0,2,A
+Mexico,Liga MX,2022/2023,8/25/2022,3:05,U.N.A.M.- Pumas,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2022/2023,8/24/2022,1:05,Guadalajara Chivas,Monterrey,1,0,H
+Mexico,Liga MX,2022/2023,8/24/2022,3:05,Queretaro,Club America,0,1,A
+Mexico,Liga MX,2022/2023,8/22/2022,1:05,Pachuca,Club Leon,1,0,H
+Mexico,Liga MX,2022/2023,8/21/2022,1:05,Atlas,Puebla,1,1,D
+Mexico,Liga MX,2022/2023,8/21/2022,1:05,Monterrey,U.A.N.L.- Tigres,0,0,D
+Mexico,Liga MX,2022/2023,8/21/2022,3:05,Club America,Cruz Azul,7,0,H
+Mexico,Liga MX,2022/2023,8/21/2022,3:05,Juarez,Mazatlan FC,1,1,D
+Mexico,Liga MX,2022/2023,8/21/2022,18:00,U.N.A.M.- Pumas,Santos Laguna,1,5,A
+Mexico,Liga MX,2022/2023,8/21/2022,23:00,Atl. San Luis,Toluca,1,0,H
+Mexico,Liga MX,2022/2023,8/20/2022,1:00,Necaxa,Guadalajara Chivas,0,4,A
+Mexico,Liga MX,2022/2023,8/20/2022,23:00,Queretaro,Club Tijuana,2,0,H
+Mexico,Liga MX,2022/2023,8/19/2022,1:05,Santos Laguna,Club Leon,2,1,H
+Mexico,Liga MX,2022/2023,8/19/2022,3:05,Atl. San Luis,U.N.A.M.- Pumas,3,2,H
+Mexico,Liga MX,2022/2023,8/18/2022,1:00,Toluca,Monterrey,1,1,D
+Mexico,Liga MX,2022/2023,8/18/2022,3:05,Cruz Azul,Club Tijuana,1,2,A
+Mexico,Liga MX,2022/2023,8/18/2022,3:05,Pachuca,Club America,0,3,A
+Mexico,Liga MX,2022/2023,8/17/2022,1:00,Atlas,Juarez,0,1,A
+Mexico,Liga MX,2022/2023,8/17/2022,1:00,Mazatlan FC,Queretaro,1,1,D
+Mexico,Liga MX,2022/2023,8/17/2022,3:05,Puebla,Necaxa,2,2,D
+Mexico,Liga MX,2022/2023,8/15/2022,1:05,U.A.N.L.- Tigres,Santos Laguna,2,0,H
+Mexico,Liga MX,2022/2023,8/14/2022,1:05,U.N.A.M.- Pumas,Club America,0,3,A
+Mexico,Liga MX,2022/2023,8/14/2022,3:05,Guadalajara Chivas,Atlas,1,1,D
+Mexico,Liga MX,2022/2023,8/14/2022,23:00,Cruz Azul,Toluca,2,3,A
+Mexico,Liga MX,2022/2023,8/13/2022,3:00,Necaxa,Monterrey,1,2,A
+Mexico,Liga MX,2022/2023,8/13/2022,3:05,Club Tijuana,Puebla,3,3,D
+Mexico,Liga MX,2022/2023,8/13/2022,23:00,Club Leon,Mazatlan FC,0,3,A
+Mexico,Liga MX,2022/2023,8/12/2022,3:00,Queretaro,Atl. San Luis,1,1,D
+Mexico,Liga MX,2022/2023,8/8/2022,0:05,Pachuca,U.A.N.L.- Tigres,2,0,H
+Mexico,Liga MX,2022/2023,8/8/2022,2:05,Club America,Juarez,2,1,H
+Mexico,Liga MX,2022/2023,8/7/2022,1:05,Monterrey,Club Leon,5,1,H
+Mexico,Liga MX,2022/2023,8/7/2022,3:05,Santos Laguna,Cruz Azul,4,0,H
+Mexico,Liga MX,2022/2023,8/7/2022,18:00,Toluca,Club Tijuana,3,1,H
+Mexico,Liga MX,2022/2023,8/7/2022,22:00,Atl. San Luis,Necaxa,1,2,A
+Mexico,Liga MX,2022/2023,8/6/2022,3:05,Mazatlan FC,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2022/2023,8/5/2022,3:00,Atlas,Queretaro,3,1,H
+Mexico,Liga MX,2022/2023,8/4/2022,2:00,Juarez,Atl. San Luis,1,1,D
+Mexico,Liga MX,2022/2023,8/3/2022,2:00,Toluca,Puebla,1,1,D
+Mexico,Liga MX,2022/2023,8/1/2022,1:05,Santos Laguna,Atlas,1,0,H
+Mexico,Liga MX,2022/2023,8/1/2022,3:05,Club Leon,Club America,3,2,H
+Mexico,Liga MX,2022/2023,7/31/2022,1:05,U.A.N.L.- Tigres,Queretaro,2,1,H
+Mexico,Liga MX,2022/2023,7/31/2022,3:05,Club Tijuana,Mazatlan FC,2,0,H
+Mexico,Liga MX,2022/2023,7/31/2022,3:05,Guadalajara Chivas,Pachuca,0,0,D
+Mexico,Liga MX,2022/2023,7/31/2022,3:05,Puebla,Atl. San Luis,0,0,D
+Mexico,Liga MX,2022/2023,7/31/2022,18:00,U.N.A.M.- Pumas,Monterrey,1,1,D
+Mexico,Liga MX,2022/2023,7/30/2022,3:05,Juarez,Toluca,1,1,D
+Mexico,Liga MX,2022/2023,7/30/2022,23:00,Cruz Azul,Necaxa,1,0,H
+Mexico,Liga MX,2022/2023,7/28/2022,1:00,Necaxa,Pachuca,2,0,H
+Mexico,Liga MX,2022/2023,7/28/2022,1:00,Queretaro,Guadalajara Chivas,2,2,D
+Mexico,Liga MX,2022/2023,7/28/2022,3:05,U.N.A.M.- Pumas,Mazatlan FC,1,1,D
+Mexico,Liga MX,2022/2023,7/27/2022,1:00,Atlas,Club Tijuana,1,2,A
+Mexico,Liga MX,2022/2023,7/27/2022,1:00,Juarez,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,7/27/2022,1:00,Monterrey,Puebla,1,0,H
+Mexico,Liga MX,2022/2023,7/27/2022,3:05,Atl. San Luis,Cruz Azul,0,0,D
+Mexico,Liga MX,2022/2023,7/27/2022,3:05,Club Leon,Toluca,0,1,A
+Mexico,Liga MX,2022/2023,7/25/2022,1:00,Pachuca,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2022/2023,7/24/2022,1:05,Cruz Azul,Puebla,2,2,D
+Mexico,Liga MX,2022/2023,7/24/2022,2:05,Club Tijuana,Club America,2,0,H
+Mexico,Liga MX,2022/2023,7/24/2022,3:05,U.A.N.L.- Tigres,Atlas,2,0,H
+Mexico,Liga MX,2022/2023,7/23/2022,1:00,Mazatlan FC,Atl. San Luis,1,1,D
+Mexico,Liga MX,2022/2023,7/23/2022,3:05,Necaxa,Juarez,1,0,H
+Mexico,Liga MX,2022/2023,7/23/2022,23:00,Toluca,Santos Laguna,2,1,H
+Mexico,Liga MX,2022/2023,7/22/2022,3:00,Queretaro,Monterrey,0,3,A
+Mexico,Liga MX,2022/2023,7/21/2022,3:05,Guadalajara Chivas,Club Leon,0,0,D
+Mexico,Liga MX,2022/2023,7/19/2022,1:00,Pachuca,Mazatlan FC,1,1,D
+Mexico,Liga MX,2022/2023,7/18/2022,1:00,U.A.N.L.- Tigres,Club Tijuana,1,0,H
+Mexico,Liga MX,2022/2023,7/17/2022,1:05,Santos Laguna,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2022/2023,7/17/2022,18:00,U.N.A.M.- Pumas,Necaxa,1,0,H
+Mexico,Liga MX,2022/2023,7/17/2022,23:00,Atl. San Luis,Monterrey,0,1,A
+Mexico,Liga MX,2022/2023,7/16/2022,1:00,Puebla,Club Leon,1,1,D
+Mexico,Liga MX,2022/2023,7/16/2022,3:05,Juarez,Queretaro,1,1,D
+Mexico,Liga MX,2022/2023,7/16/2022,23:00,Atlas,Cruz Azul,3,2,H
+Mexico,Liga MX,2022/2023,7/14/2022,3:00,Club America,Toluca,1,0,H
+Mexico,Liga MX,2022/2023,7/10/2022,1:00,Club Leon,U.N.A.M.- Pumas,3,3,D
+Mexico,Liga MX,2022/2023,7/10/2022,1:05,Guadalajara Chivas,Atl. San Luis,0,1,A
+Mexico,Liga MX,2022/2023,7/10/2022,3:05,Cruz Azul,Pachuca,1,2,A
+Mexico,Liga MX,2022/2023,7/10/2022,3:05,Monterrey,Club America,3,2,H
+Mexico,Liga MX,2022/2023,7/10/2022,18:00,Toluca,Atlas,3,2,H
+Mexico,Liga MX,2022/2023,7/10/2022,23:00,Queretaro,Necaxa,1,2,A
+Mexico,Liga MX,2022/2023,7/9/2022,1:00,Mazatlan FC,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2022/2023,7/9/2022,3:05,Club Tijuana,Juarez,0,2,A
+Mexico,Liga MX,2022/2023,7/9/2022,3:05,Puebla,Santos Laguna,1,0,H
+Mexico,Liga MX,2022/2023,7/5/2022,3:00,Pachuca,Queretaro,2,0,H
+Mexico,Liga MX,2022/2023,7/4/2022,1:05,Santos Laguna,Monterrey,4,3,H
+Mexico,Liga MX,2022/2023,7/3/2022,1:05,U.A.N.L.- Tigres,Cruz Azul,2,3,A
+Mexico,Liga MX,2022/2023,7/3/2022,3:05,Club America,Atlas,0,0,D
+Mexico,Liga MX,2022/2023,7/3/2022,18:00,U.N.A.M.- Pumas,Club Tijuana,1,1,D
+Mexico,Liga MX,2022/2023,7/3/2022,23:00,Atl. San Luis,Club Leon,1,2,A
+Mexico,Liga MX,2022/2023,7/2/2022,3:05,Mazatlan FC,Puebla,2,4,A
+Mexico,Liga MX,2022/2023,7/2/2022,23:00,Guadalajara Chivas,Juarez,0,0,D
+Mexico,Liga MX,2022/2023,7/2/2022,23:00,Necaxa,Toluca,1,3,A
+Mexico,Liga MX,2021/2022,5/30/2022,2:10,Pachuca,Atlas,2,1,H
+Mexico,Liga MX,2021/2022,5/27/2022,3:00,Atlas,Pachuca,2,0,H
+Mexico,Liga MX,2021/2022,5/23/2022,2:06,Pachuca,Club America,3,0,H
+Mexico,Liga MX,2021/2022,5/22/2022,2:00,U.A.N.L.- Tigres,Atlas,4,2,H
+Mexico,Liga MX,2021/2022,5/20/2022,2:00,Club America,Pachuca,1,1,D
+Mexico,Liga MX,2021/2022,5/19/2022,3:00,Atlas,U.A.N.L.- Tigres,3,0,H
+Mexico,Liga MX,2021/2022,5/16/2022,0:00,Atlas,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2021/2022,5/16/2022,2:05,U.A.N.L.- Tigres,Cruz Azul,0,1,A
+Mexico,Liga MX,2021/2022,5/15/2022,0:00,Club America,Puebla,3,2,H
+Mexico,Liga MX,2021/2022,5/15/2022,2:05,Pachuca,Atl. San Luis,3,2,H
+Mexico,Liga MX,2021/2022,5/13/2022,1:00,Cruz Azul,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2021/2022,5/13/2022,3:05,Guadalajara Chivas,Atlas,1,2,A
+Mexico,Liga MX,2021/2022,5/12/2022,1:00,Atl. San Luis,Pachuca,2,2,D
+Mexico,Liga MX,2021/2022,5/12/2022,3:05,Puebla,Club America,1,1,D
+Mexico,Liga MX,2021/2022,5/9/2022,1:15,Guadalajara Chivas,U.N.A.M.- Pumas,4,1,H
+Mexico,Liga MX,2021/2022,5/8/2022,2:06,Monterrey,Atl. San Luis,2,2,D
+Mexico,Liga MX,2021/2022,5/8/2022,23:00,Puebla,Mazatlan FC,2,2,D
+Mexico,Liga MX,2021/2022,5/7/2022,23:45,Cruz Azul,Necaxa,1,1,D
+Mexico,Liga MX,2021/2022,5/2/2022,2:06,Club Leon,Toluca,4,4,D
+Mexico,Liga MX,2021/2022,5/1/2022,1:00,Atlas,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2021/2022,5/1/2022,1:06,Monterrey,Club Tijuana,2,0,H
+Mexico,Liga MX,2021/2022,5/1/2022,3:00,Club America,Cruz Azul,0,0,D
+Mexico,Liga MX,2021/2022,5/1/2022,18:00,U.N.A.M.- Pumas,Pachuca,2,0,H
+Mexico,Liga MX,2021/2022,5/1/2022,22:00,Atl. San Luis,Santos Laguna,1,3,A
+Mexico,Liga MX,2021/2022,4/30/2022,1:00,Necaxa,Guadalajara Chivas,0,1,A
+Mexico,Liga MX,2021/2022,4/30/2022,3:05,Mazatlan FC,Puebla,2,1,H
+Mexico,Liga MX,2021/2022,4/30/2022,23:00,Queretaro,Juarez,4,0,H
+Mexico,Liga MX,2021/2022,4/25/2022,1:00,Santos Laguna,Club Leon,1,1,D
+Mexico,Liga MX,2021/2022,4/25/2022,3:06,Club Tijuana,Queretaro,2,2,D
+Mexico,Liga MX,2021/2022,4/24/2022,1:00,U.A.N.L.- Tigres,Club America,0,2,A
+Mexico,Liga MX,2021/2022,4/24/2022,3:00,Guadalajara Chivas,U.N.A.M.- Pumas,3,1,H
+Mexico,Liga MX,2021/2022,4/24/2022,18:00,Toluca,Atlas,2,4,A
+Mexico,Liga MX,2021/2022,4/24/2022,23:00,Cruz Azul,Atl. San Luis,0,1,A
+Mexico,Liga MX,2021/2022,4/23/2022,1:00,Puebla,Necaxa,0,1,A
+Mexico,Liga MX,2021/2022,4/23/2022,3:00,Juarez,Mazatlan FC,0,2,A
+Mexico,Liga MX,2021/2022,4/23/2022,23:00,Pachuca,Monterrey,3,0,H
+Mexico,Liga MX,2021/2022,4/22/2022,3:00,Queretaro,Cruz Azul,0,1,A
+Mexico,Liga MX,2021/2022,4/21/2022,1:00,Atl. San Luis,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2021/2022,4/21/2022,3:00,Club America,Club Leon,2,0,H
+Mexico,Liga MX,2021/2022,4/21/2022,3:06,Monterrey,Atlas,0,0,D
+Mexico,Liga MX,2021/2022,4/20/2022,1:00,Necaxa,U.A.N.L.- Tigres,2,0,H
+Mexico,Liga MX,2021/2022,4/20/2022,1:00,Pachuca,Puebla,1,0,H
+Mexico,Liga MX,2021/2022,4/20/2022,3:00,Guadalajara Chivas,Club Tijuana,2,1,H
+Mexico,Liga MX,2021/2022,4/20/2022,3:00,Mazatlan FC,Santos Laguna,1,0,H
+Mexico,Liga MX,2021/2022,4/20/2022,3:00,Toluca,Juarez,0,1,A
+Mexico,Liga MX,2021/2022,4/17/2022,1:00,Santos Laguna,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,4/17/2022,1:00,U.A.N.L.- Tigres,Toluca,3,0,H
+Mexico,Liga MX,2021/2022,4/17/2022,3:00,Cruz Azul,Guadalajara Chivas,0,1,A
+Mexico,Liga MX,2021/2022,4/17/2022,18:00,U.N.A.M.- Pumas,Monterrey,2,0,H
+Mexico,Liga MX,2021/2022,4/16/2022,1:00,Necaxa,Atl. San Luis,4,2,H
+Mexico,Liga MX,2021/2022,4/16/2022,3:00,Juarez,Pachuca,1,2,A
+Mexico,Liga MX,2021/2022,4/16/2022,3:06,Club Tijuana,Club America,1,3,A
+Mexico,Liga MX,2021/2022,4/16/2022,23:00,Club Leon,Puebla,0,1,A
+Mexico,Liga MX,2021/2022,4/15/2022,3:00,Atlas,Mazatlan FC,1,2,A
+Mexico,Liga MX,2021/2022,4/14/2022,2:05,Guadalajara Chivas,Monterrey,1,3,A
+Mexico,Liga MX,2021/2022,4/12/2022,3:00,Pachuca,Club Tijuana,0,0,D
+Mexico,Liga MX,2021/2022,4/11/2022,1:00,Queretaro,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2021/2022,4/10/2022,1:00,Toluca,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2021/2022,4/10/2022,1:06,Monterrey,Santos Laguna,1,0,H
+Mexico,Liga MX,2021/2022,4/10/2022,3:00,Club America,Juarez,3,0,H
+Mexico,Liga MX,2021/2022,4/9/2022,1:00,Puebla,U.N.A.M.- Pumas,2,2,D
+Mexico,Liga MX,2021/2022,4/9/2022,3:00,Mazatlan FC,Cruz Azul,1,1,D
+Mexico,Liga MX,2021/2022,4/9/2022,23:00,Atl. San Luis,Club Leon,2,0,H
+Mexico,Liga MX,2021/2022,4/8/2022,3:00,Atlas,Necaxa,2,1,H
+Mexico,Liga MX,2021/2022,4/8/2022,1:00,Pachuca,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2021/2022,4/7/2022,1:00,Toluca,Monterrey,2,2,D
+Mexico,Liga MX,2021/2022,4/7/2022,3:06,Club Tijuana,Atl. San Luis,1,1,D
+Mexico,Liga MX,2021/2022,4/4/2022,1:00,Santos Laguna,Pachuca,3,1,H
+Mexico,Liga MX,2021/2022,4/4/2022,1:00,U.A.N.L.- Tigres,Club Tijuana,2,0,H
+Mexico,Liga MX,2021/2022,4/3/2022,0:00,Cruz Azul,Atlas,1,0,H
+Mexico,Liga MX,2021/2022,4/3/2022,2:00,Necaxa,Club America,0,1,A
+Mexico,Liga MX,2021/2022,4/3/2022,4:00,Juarez,U.N.A.M.- Pumas,0,1,A
+Mexico,Liga MX,2021/2022,4/3/2022,18:00,Toluca,Puebla,2,1,H
+Mexico,Liga MX,2021/2022,4/3/2022,23:00,Club Leon,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,4/2/2022,3:00,Atl. San Luis,Mazatlan FC,1,0,H
+Mexico,Liga MX,2021/2022,3/26/2022,23:00,U.N.A.M.- Pumas,Mazatlan FC,1,1,D
+Mexico,Liga MX,2021/2022,3/21/2022,1:00,Atlas,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2021/2022,3/21/2022,3:00,Mazatlan FC,Club Leon,1,2,A
+Mexico,Liga MX,2021/2022,3/21/2022,3:06,Club Tijuana,Juarez,1,0,H
+Mexico,Liga MX,2021/2022,3/20/2022,1:00,U.A.N.L.- Tigres,Monterrey,2,0,H
+Mexico,Liga MX,2021/2022,3/20/2022,3:00,Pachuca,Cruz Azul,1,0,H
+Mexico,Liga MX,2021/2022,3/20/2022,23:00,Club America,Toluca,3,0,H
+Mexico,Liga MX,2021/2022,3/19/2022,3:00,Puebla,Santos Laguna,2,2,D
+Mexico,Liga MX,2021/2022,3/19/2022,23:00,U.N.A.M.- Pumas,Necaxa,1,3,A
+Mexico,Liga MX,2021/2022,3/18/2022,3:05,Queretaro,Atl. San Luis,2,1,H
+Mexico,Liga MX,2021/2022,3/16/2022,3:06,Monterrey,Juarez,3,0,H
+Mexico,Liga MX,2021/2022,3/14/2022,1:00,Santos Laguna,Club Tijuana,4,0,H
+Mexico,Liga MX,2021/2022,3/13/2022,1:00,Cruz Azul,U.N.A.M.- Pumas,2,1,H
+Mexico,Liga MX,2021/2022,3/13/2022,3:00,Guadalajara Chivas,Club America,0,0,D
+Mexico,Liga MX,2021/2022,3/13/2022,18:00,Toluca,Pachuca,0,3,A
+Mexico,Liga MX,2021/2022,3/13/2022,23:00,Atl. San Luis,Puebla,2,1,H
+Mexico,Liga MX,2021/2022,3/12/2022,1:00,Necaxa,Queretaro,1,0,H
+Mexico,Liga MX,2021/2022,3/12/2022,3:00,Juarez,Atlas,1,2,A
+Mexico,Liga MX,2021/2022,3/12/2022,3:06,Monterrey,Mazatlan FC,2,1,H
+Mexico,Liga MX,2021/2022,3/12/2022,23:00,Club Leon,U.A.N.L.- Tigres,0,3,A
+Mexico,Liga MX,2021/2022,3/6/2022,1:06,Monterrey,Club America,2,1,H
+Mexico,Liga MX,2021/2022,3/6/2022,3:00,Cruz Azul,Puebla,1,3,A
+Mexico,Liga MX,2021/2022,3/6/2022,3:00,Guadalajara Chivas,Santos Laguna,1,0,H
+Mexico,Liga MX,2021/2022,3/5/2022,1:00,Necaxa,Toluca,0,1,A
+Mexico,Liga MX,2021/2022,3/5/2022,3:00,Juarez,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,3/5/2022,23:00,Queretaro,Atlas,0,3,A
+Mexico,Liga MX,2021/2022,3/3/2022,1:00,Atlas,Pachuca,0,1,A
+Mexico,Liga MX,2021/2022,3/3/2022,1:00,U.A.N.L.- Tigres,Cruz Azul,2,2,D
+Mexico,Liga MX,2021/2022,3/3/2022,3:00,Atl. San Luis,Guadalajara Chivas,2,2,D
+Mexico,Liga MX,2021/2022,3/3/2022,3:00,Santos Laguna,U.N.A.M.- Pumas,3,2,H
+Mexico,Liga MX,2021/2022,3/2/2022,1:00,Puebla,Juarez,1,1,D
+Mexico,Liga MX,2021/2022,3/2/2022,1:00,Toluca,Club Tijuana,1,2,A
+Mexico,Liga MX,2021/2022,3/2/2022,3:00,Club America,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,3/2/2022,3:00,Club Leon,Monterrey,0,0,D
+Mexico,Liga MX,2021/2022,3/2/2022,3:00,Mazatlan FC,Necaxa,0,0,D
+Mexico,Liga MX,2021/2022,2/28/2022,1:00,Cruz Azul,Santos Laguna,1,2,A
+Mexico,Liga MX,2021/2022,2/27/2022,1:00,Guadalajara Chivas,Puebla,2,3,A
+Mexico,Liga MX,2021/2022,2/27/2022,3:00,U.N.A.M.- Pumas,Club America,0,0,D
+Mexico,Liga MX,2021/2022,2/26/2022,1:00,Necaxa,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,2/26/2022,3:00,Juarez,U.A.N.L.- Tigres,2,3,A
+Mexico,Liga MX,2021/2022,2/26/2022,3:06,Club Tijuana,Atlas,2,0,H
+Mexico,Liga MX,2021/2022,2/26/2022,23:06,Monterrey,Atl. San Luis,0,2,A
+Mexico,Liga MX,2021/2022,2/25/2022,1:00,Pachuca,Mazatlan FC,3,1,H
+Mexico,Liga MX,2021/2022,2/25/2022,3:05,Queretaro,Toluca,1,1,D
+Mexico,Liga MX,2021/2022,2/21/2022,0:05,Toluca,Cruz Azul,1,4,A
+Mexico,Liga MX,2021/2022,2/21/2022,2:05,Atlas,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2021/2022,2/20/2022,1:00,U.A.N.L.- Tigres,Atl. San Luis,2,1,H
+Mexico,Liga MX,2021/2022,2/20/2022,3:00,Club Leon,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2021/2022,2/20/2022,22:00,Club America,Pachuca,1,3,A
+Mexico,Liga MX,2021/2022,2/19/2022,1:00,Puebla,Monterrey,1,0,H
+Mexico,Liga MX,2021/2022,2/19/2022,3:00,Juarez,Santos Laguna,0,0,D
+Mexico,Liga MX,2021/2022,2/19/2022,3:06,Club Tijuana,Necaxa,1,1,D
+Mexico,Liga MX,2021/2022,2/19/2022,23:00,Queretaro,Mazatlan FC,2,0,H
+Mexico,Liga MX,2021/2022,2/17/2022,1:00,Mazatlan FC,Club America,2,1,H
+Mexico,Liga MX,2021/2022,2/15/2022,3:00,Pachuca,Queretaro,2,2,D
+Mexico,Liga MX,2021/2022,2/13/2022,1:00,Cruz Azul,Necaxa,1,2,A
+Mexico,Liga MX,2021/2022,2/13/2022,3:00,Santos Laguna,Club America,2,3,A
+Mexico,Liga MX,2021/2022,2/13/2022,18:00,U.N.A.M.- Pumas,Club Leon,2,1,H
+Mexico,Liga MX,2021/2022,2/12/2022,1:00,Mazatlan FC,Club Tijuana,2,0,H
+Mexico,Liga MX,2021/2022,2/12/2022,3:00,Puebla,Atlas,1,1,D
+Mexico,Liga MX,2021/2022,2/12/2022,23:00,Atl. San Luis,Toluca,0,1,A
+Mexico,Liga MX,2021/2022,2/12/2022,23:00,Guadalajara Chivas,U.A.N.L.- Tigres,1,3,A
+Mexico,Liga MX,2021/2022,2/10/2022,1:00,Juarez,Guadalajara Chivas,1,3,A
+Mexico,Liga MX,2021/2022,2/8/2022,3:05,Club Leon,Cruz Azul,0,1,A
+Mexico,Liga MX,2021/2022,2/7/2022,0:00,Atlas,Santos Laguna,2,1,H
+Mexico,Liga MX,2021/2022,2/7/2022,2:00,U.A.N.L.- Tigres,Mazatlan FC,4,3,H
+Mexico,Liga MX,2021/2022,2/6/2022,1:00,Club America,Atl. San Luis,2,3,A
+Mexico,Liga MX,2021/2022,2/6/2022,3:06,Club Tijuana,U.N.A.M.- Pumas,1,0,H
+Mexico,Liga MX,2021/2022,2/6/2022,22:00,Queretaro,Puebla,0,2,A
+Mexico,Liga MX,2021/2022,2/5/2022,23:00,Necaxa,Pachuca,1,3,A
+Mexico,Liga MX,2021/2022,1/29/2022,3:00,Puebla,Club Tijuana,3,1,H
+Mexico,Liga MX,2021/2022,1/24/2022,1:00,Santos Laguna,Necaxa,1,4,A
+Mexico,Liga MX,2021/2022,1/23/2022,1:00,Club Leon,Pachuca,2,1,H
+Mexico,Liga MX,2021/2022,1/23/2022,3:00,Club America,Atlas,0,2,A
+Mexico,Liga MX,2021/2022,1/23/2022,3:06,Monterrey,Cruz Azul,2,2,D
+Mexico,Liga MX,2021/2022,1/23/2022,18:00,U.N.A.M.- Pumas,U.A.N.L.- Tigres,1,2,A
+Mexico,Liga MX,2021/2022,1/22/2022,3:00,Mazatlan FC,Toluca,1,2,A
+Mexico,Liga MX,2021/2022,1/22/2022,23:00,Guadalajara Chivas,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,1/21/2022,3:00,Atl. San Luis,Juarez,0,1,A
+Mexico,Liga MX,2021/2022,1/20/2022,3:00,Club Leon,Atlas,1,1,D
+Mexico,Liga MX,2021/2022,1/16/2022,1:00,U.A.N.L.- Tigres,Puebla,0,2,A
+Mexico,Liga MX,2021/2022,1/16/2022,3:00,Cruz Azul,Juarez,1,0,H
+Mexico,Liga MX,2021/2022,1/16/2022,3:06,Club Tijuana,Club Leon,1,1,D
+Mexico,Liga MX,2021/2022,1/16/2022,18:00,Toluca,Santos Laguna,3,1,H
+Mexico,Liga MX,2021/2022,1/16/2022,23:00,Pachuca,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2021/2022,1/15/2022,1:00,Queretaro,U.N.A.M.- Pumas,1,3,A
+Mexico,Liga MX,2021/2022,1/15/2022,3:00,Necaxa,Monterrey,0,4,A
+Mexico,Liga MX,2021/2022,1/15/2022,23:00,Atlas,Atl. San Luis,1,0,H
+Mexico,Liga MX,2021/2022,1/13/2022,2:06,Santos Laguna,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2021/2022,1/11/2022,3:00,U.N.A.M.- Pumas,Toluca,5,0,H
+Mexico,Liga MX,2021/2022,1/10/2022,0:00,Guadalajara Chivas,Mazatlan FC,3,0,H
+Mexico,Liga MX,2021/2022,1/9/2022,1:06,Monterrey,Queretaro,0,0,D
+Mexico,Liga MX,2021/2022,1/9/2022,3:00,Cruz Azul,Club Tijuana,2,0,H
+Mexico,Liga MX,2021/2022,1/8/2022,1:00,Juarez,Necaxa,2,1,H
+Mexico,Liga MX,2021/2022,1/8/2022,3:00,Puebla,Club America,1,1,D
+Mexico,Liga MX,2021/2022,1/7/2022,3:00,Atl. San Luis,Pachuca,0,2,A
+Mexico,Liga MX,2021/2022,12/13/2021,2:15,Atlas,Club Leon,1,0,H
+Mexico,Liga MX,2021/2022,12/10/2021,3:00,Club Leon,Atlas,3,2,H
+Mexico,Liga MX,2021/2022,12/6/2021,1:00,Atlas,U.N.A.M.- Pumas,0,1,A
+Mexico,Liga MX,2021/2022,12/5/2021,3:00,Club Leon,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2021/2022,12/3/2021,3:00,U.N.A.M.- Pumas,Atlas,0,1,A
+Mexico,Liga MX,2021/2022,12/2/2021,3:00,U.A.N.L.- Tigres,Club Leon,2,1,H
+Mexico,Liga MX,2021/2022,11/29/2021,0:00,U.A.N.L.- Tigres,Santos Laguna,1,0,H
+Mexico,Liga MX,2021/2022,11/29/2021,2:05,Club Leon,Puebla,2,0,H
+Mexico,Liga MX,2021/2022,11/28/2021,1:00,Club America,U.N.A.M.- Pumas,1,3,A
+Mexico,Liga MX,2021/2022,11/28/2021,3:05,Atlas,Monterrey,1,1,D
+Mexico,Liga MX,2021/2022,11/26/2021,1:00,Puebla,Club Leon,2,1,H
+Mexico,Liga MX,2021/2022,11/26/2021,3:05,Santos Laguna,U.A.N.L.- Tigres,2,1,H
+Mexico,Liga MX,2021/2022,11/25/2021,1:00,U.N.A.M.- Pumas,Club America,0,0,D
+Mexico,Liga MX,2021/2022,11/25/2021,3:05,Monterrey,Atlas,0,0,D
+Mexico,Liga MX,2021/2022,11/22/2021,1:15,Cruz Azul,Monterrey,1,4,A
+Mexico,Liga MX,2021/2022,11/21/2021,1:00,Santos Laguna,Atl. San Luis,2,0,H
+Mexico,Liga MX,2021/2022,11/21/2021,3:00,Puebla,Guadalajara Chivas,2,2,D
+Mexico,Liga MX,2021/2022,11/21/2021,23:00,Toluca,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2021/2022,11/8/2021,1:06,Santos Laguna,Atl. San Luis,0,0,D
+Mexico,Liga MX,2021/2022,11/7/2021,1:00,Club America,Monterrey,0,0,D
+Mexico,Liga MX,2021/2022,11/7/2021,3:00,U.A.N.L.- Tigres,Juarez,3,0,H
+Mexico,Liga MX,2021/2022,11/7/2021,3:06,Club Tijuana,Pachuca,3,2,H
+Mexico,Liga MX,2021/2022,11/7/2021,23:00,U.N.A.M.- Pumas,Cruz Azul,4,3,H
+Mexico,Liga MX,2021/2022,11/6/2021,1:00,Puebla,Toluca,1,0,H
+Mexico,Liga MX,2021/2022,11/6/2021,3:00,Mazatlan FC,Guadalajara Chivas,0,1,A
+Mexico,Liga MX,2021/2022,11/6/2021,23:00,Club Leon,Necaxa,3,0,H
+Mexico,Liga MX,2021/2022,11/5/2021,1:00,U.N.A.M.- Pumas,Santos Laguna,0,3,A
+Mexico,Liga MX,2021/2022,11/5/2021,3:00,Atlas,Queretaro,2,0,H
+Mexico,Liga MX,2021/2022,11/4/2021,1:00,Pachuca,Atl. San Luis,0,0,D
+Mexico,Liga MX,2021/2022,11/4/2021,3:00,Cruz Azul,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,11/1/2021,1:05,Atl. San Luis,Monterrey,1,1,D
+Mexico,Liga MX,2021/2022,10/31/2021,1:06,Pachuca,U.N.A.M.- Pumas,1,1,D
+Mexico,Liga MX,2021/2022,10/31/2021,2:10,U.A.N.L.- Tigres,Guadalajara Chivas,2,1,H
+Mexico,Liga MX,2021/2022,10/31/2021,18:00,Toluca,Club Leon,0,0,D
+Mexico,Liga MX,2021/2022,10/31/2021,23:05,Cruz Azul,Club America,2,1,H
+Mexico,Liga MX,2021/2022,10/30/2021,1:00,Necaxa,Mazatlan FC,2,1,H
+Mexico,Liga MX,2021/2022,10/30/2021,3:00,Juarez,Puebla,0,2,A
+Mexico,Liga MX,2021/2022,10/30/2021,23:00,Queretaro,Santos Laguna,2,3,A
+Mexico,Liga MX,2021/2022,10/29/2021,1:00,Atlas,Club Tijuana,0,2,A
+Mexico,Liga MX,2021/2022,10/25/2021,1:00,Atl. San Luis,Atlas,2,6,A
+Mexico,Liga MX,2021/2022,10/25/2021,1:06,Santos Laguna,Toluca,2,2,D
+Mexico,Liga MX,2021/2022,10/25/2021,3:00,Pachuca,Juarez,1,1,D
+Mexico,Liga MX,2021/2022,10/24/2021,1:00,Club America,U.A.N.L.- Tigres,1,0,H
+Mexico,Liga MX,2021/2022,10/24/2021,3:00,Guadalajara Chivas,Cruz Azul,1,1,D
+Mexico,Liga MX,2021/2022,10/24/2021,18:00,U.N.A.M.- Pumas,Club Tijuana,3,1,H
+Mexico,Liga MX,2021/2022,10/23/2021,3:00,Mazatlan FC,Queretaro,2,1,H
+Mexico,Liga MX,2021/2022,10/23/2021,23:00,Puebla,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,10/23/2021,23:06,Monterrey,Necaxa,0,1,A
+Mexico,Liga MX,2021/2022,10/21/2021,1:00,Club Leon,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2021/2022,10/21/2021,1:00,Toluca,Necaxa,1,1,D
+Mexico,Liga MX,2021/2022,10/21/2021,3:00,U.A.N.L.- Tigres,Pachuca,3,0,H
+Mexico,Liga MX,2021/2022,10/21/2021,3:06,Club Tijuana,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2021/2022,10/20/2021,1:00,Puebla,Mazatlan FC,2,0,H
+Mexico,Liga MX,2021/2022,10/20/2021,1:05,Club America,Santos Laguna,2,1,H
+Mexico,Liga MX,2021/2022,10/20/2021,3:05,Atlas,Cruz Azul,0,0,D
+Mexico,Liga MX,2021/2022,10/19/2021,23:00,Queretaro,Monterrey,1,0,H
+Mexico,Liga MX,2021/2022,10/17/2021,1:00,Atl. San Luis,Club America,0,1,A
+Mexico,Liga MX,2021/2022,10/17/2021,1:05,Pachuca,Santos Laguna,1,1,D
+Mexico,Liga MX,2021/2022,10/17/2021,3:00,Cruz Azul,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2021/2022,10/17/2021,18:00,U.N.A.M.- Pumas,Juarez,1,0,H
+Mexico,Liga MX,2021/2022,10/17/2021,23:00,Guadalajara Chivas,Toluca,2,0,H
+Mexico,Liga MX,2021/2022,10/16/2021,1:00,Necaxa,Puebla,0,1,A
+Mexico,Liga MX,2021/2022,10/16/2021,3:00,Mazatlan FC,Atlas,1,0,H
+Mexico,Liga MX,2021/2022,10/16/2021,23:00,Monterrey,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,10/15/2021,2:00,Queretaro,Club Tijuana,1,1,D
+Mexico,Liga MX,2021/2022,10/9/2021,1:00,Juarez,Queretaro,0,0,D
+Mexico,Liga MX,2021/2022,10/4/2021,1:00,U.A.N.L.- Tigres,Necaxa,0,0,D
+Mexico,Liga MX,2021/2022,10/4/2021,3:06,Club Tijuana,Cruz Azul,0,1,A
+Mexico,Liga MX,2021/2022,10/3/2021,1:06,Santos Laguna,Mazatlan FC,1,0,H
+Mexico,Liga MX,2021/2022,10/3/2021,3:00,Guadalajara Chivas,Atlas,0,1,A
+Mexico,Liga MX,2021/2022,10/3/2021,18:00,Toluca,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,10/3/2021,23:00,Club America,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2021/2022,10/2/2021,1:00,Puebla,Pachuca,1,2,A
+Mexico,Liga MX,2021/2022,10/2/2021,3:00,Juarez,Monterrey,3,1,H
+Mexico,Liga MX,2021/2022,10/2/2021,23:00,Club Leon,Atl. San Luis,0,0,D
+Mexico,Liga MX,2021/2022,9/30/2021,3:15,Queretaro,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2021/2022,9/29/2021,1:00,Mazatlan FC,Juarez,3,1,H
+Mexico,Liga MX,2021/2022,9/29/2021,3:00,Atlas,Puebla,0,1,A
+Mexico,Liga MX,2021/2022,9/29/2021,3:05,Pachuca,Club America,1,1,D
+Mexico,Liga MX,2021/2022,9/29/2021,23:00,Atl. San Luis,U.A.N.L.- Tigres,0,3,A
+Mexico,Liga MX,2021/2022,9/28/2021,23:00,Necaxa,Club Tijuana,3,0,H
+Mexico,Liga MX,2021/2022,9/27/2021,1:06,Santos Laguna,Monterrey,1,2,A
+Mexico,Liga MX,2021/2022,9/26/2021,1:00,U.A.N.L.- Tigres,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2021/2022,9/26/2021,3:00,Club America,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2021/2022,9/26/2021,18:00,Toluca,Atl. San Luis,1,2,A
+Mexico,Liga MX,2021/2022,9/25/2021,2:00,Puebla,Cruz Azul,1,1,D
+Mexico,Liga MX,2021/2022,9/25/2021,3:06,Club Tijuana,Mazatlan FC,0,0,D
+Mexico,Liga MX,2021/2022,9/25/2021,23:00,Atlas,Club Leon,2,0,H
+Mexico,Liga MX,2021/2022,9/24/2021,3:00,Pachuca,Necaxa,1,0,H
+Mexico,Liga MX,2021/2022,9/23/2021,1:06,Monterrey,Toluca,2,0,H
+Mexico,Liga MX,2021/2022,9/22/2021,3:00,Juarez,Atl. San Luis,1,0,H
+Mexico,Liga MX,2021/2022,9/20/2021,1:00,Cruz Azul,Queretaro,2,0,H
+Mexico,Liga MX,2021/2022,9/20/2021,1:06,Monterrey,U.A.N.L.- Tigres,2,0,H
+Mexico,Liga MX,2021/2022,9/20/2021,3:06,Santos Laguna,Puebla,1,1,D
+Mexico,Liga MX,2021/2022,9/19/2021,1:00,Toluca,Club America,3,1,H
+Mexico,Liga MX,2021/2022,9/19/2021,3:00,Guadalajara Chivas,Pachuca,1,0,H
+Mexico,Liga MX,2021/2022,9/19/2021,3:00,Mazatlan FC,U.N.A.M.- Pumas,2,2,D
+Mexico,Liga MX,2021/2022,9/18/2021,3:00,Necaxa,Atlas,0,3,A
+Mexico,Liga MX,2021/2022,9/18/2021,23:00,Club Leon,Juarez,0,1,A
+Mexico,Liga MX,2021/2022,9/17/2021,1:00,Atl. San Luis,Club Tijuana,4,1,H
+Mexico,Liga MX,2021/2022,9/14/2021,3:00,Pachuca,Toluca,1,2,A
+Mexico,Liga MX,2021/2022,9/13/2021,1:00,Queretaro,Necaxa,3,0,H
+Mexico,Liga MX,2021/2022,9/12/2021,1:00,U.A.N.L.- Tigres,Club Leon,2,2,D
+Mexico,Liga MX,2021/2022,9/12/2021,3:00,Club America,Mazatlan FC,2,0,H
+Mexico,Liga MX,2021/2022,9/12/2021,23:00,U.N.A.M.- Pumas,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2021/2022,9/11/2021,1:00,Puebla,Atl. San Luis,2,2,D
+Mexico,Liga MX,2021/2022,9/11/2021,3:00,Juarez,Cruz Azul,2,1,H
+Mexico,Liga MX,2021/2022,9/11/2021,3:06,Club Tijuana,Santos Laguna,2,1,H
+Mexico,Liga MX,2021/2022,9/11/2021,23:00,Atlas,Monterrey,2,1,H
+Mexico,Liga MX,2021/2022,8/30/2021,0:00,Santos Laguna,Juarez,2,0,H
+Mexico,Liga MX,2021/2022,8/30/2021,2:00,Cruz Azul,Pachuca,1,1,D
+Mexico,Liga MX,2021/2022,8/29/2021,1:00,U.A.N.L.- Tigres,Atlas,1,1,D
+Mexico,Liga MX,2021/2022,8/29/2021,3:00,Club Leon,Club America,1,1,D
+Mexico,Liga MX,2021/2022,8/29/2021,18:00,Toluca,U.N.A.M.- Pumas,2,1,H
+Mexico,Liga MX,2021/2022,8/28/2021,1:00,Mazatlan FC,Atl. San Luis,2,2,D
+Mexico,Liga MX,2021/2022,8/28/2021,3:00,Puebla,Queretaro,1,0,H
+Mexico,Liga MX,2021/2022,8/28/2021,3:06,Club Tijuana,Monterrey,2,2,D
+Mexico,Liga MX,2021/2022,8/28/2021,23:00,Guadalajara Chivas,Necaxa,2,1,H
+Mexico,Liga MX,2021/2022,8/23/2021,1:00,Necaxa,Juarez,1,0,H
+Mexico,Liga MX,2021/2022,8/23/2021,3:00,Queretaro,Pachuca,0,2,A
+Mexico,Liga MX,2021/2022,8/22/2021,1:00,Club Leon,Santos Laguna,1,1,D
+Mexico,Liga MX,2021/2022,8/22/2021,3:00,Atl. San Luis,Cruz Azul,0,0,D
+Mexico,Liga MX,2021/2022,8/22/2021,3:36,Monterrey,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2021/2022,8/22/2021,18:00,U.N.A.M.- Pumas,Puebla,2,0,H
+Mexico,Liga MX,2021/2022,8/22/2021,23:00,Club America,Club Tijuana,2,0,H
+Mexico,Liga MX,2021/2022,8/21/2021,3:00,Mazatlan FC,U.A.N.L.- Tigres,0,3,A
+Mexico,Liga MX,2021/2022,8/21/2021,23:00,Atlas,Toluca,0,0,D
+Mexico,Liga MX,2021/2022,8/19/2021,1:00,Cruz Azul,Monterrey,1,1,D
+Mexico,Liga MX,2021/2022,8/19/2021,1:00,Santos Laguna,Atlas,1,1,D
+Mexico,Liga MX,2021/2022,8/19/2021,3:00,Guadalajara Chivas,Club Leon,0,3,A
+Mexico,Liga MX,2021/2022,8/19/2021,3:00,Juarez,Club America,1,2,A
+Mexico,Liga MX,2021/2022,8/18/2021,1:00,U.A.N.L.- Tigres,Queretaro,3,0,H
+Mexico,Liga MX,2021/2022,8/18/2021,3:00,Necaxa,U.N.A.M.- Pumas,3,0,H
+Mexico,Liga MX,2021/2022,8/18/2021,3:06,Club Tijuana,Puebla,1,1,D
+Mexico,Liga MX,2021/2022,8/17/2021,23:00,Toluca,Mazatlan FC,2,2,D
+Mexico,Liga MX,2021/2022,8/16/2021,1:06,Santos Laguna,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2021/2022,8/15/2021,1:00,Club Leon,Mazatlan FC,3,0,H
+Mexico,Liga MX,2021/2022,8/15/2021,3:00,Cruz Azul,Toluca,4,0,H
+Mexico,Liga MX,2021/2022,8/15/2021,3:06,Monterrey,Pachuca,3,1,H
+Mexico,Liga MX,2021/2022,8/15/2021,23:00,Atlas,Club America,0,1,A
+Mexico,Liga MX,2021/2022,8/14/2021,1:00,Puebla,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2021/2022,8/14/2021,3:00,Juarez,Club Tijuana,1,1,D
+Mexico,Liga MX,2021/2022,8/14/2021,23:00,U.N.A.M.- Pumas,Queretaro,0,0,D
+Mexico,Liga MX,2021/2022,8/13/2021,3:00,Atl. San Luis,Necaxa,0,2,A
+Mexico,Liga MX,2021/2022,8/10/2021,3:00,Pachuca,Atlas,0,1,A
+Mexico,Liga MX,2021/2022,8/8/2021,1:00,Club America,Puebla,2,0,H
+Mexico,Liga MX,2021/2022,8/8/2021,3:00,U.A.N.L.- Tigres,Santos Laguna,1,1,D
+Mexico,Liga MX,2021/2022,8/8/2021,18:00,U.N.A.M.- Pumas,Atl. San Luis,1,3,A
+Mexico,Liga MX,2021/2022,8/7/2021,1:00,Mazatlan FC,Monterrey,1,1,D
+Mexico,Liga MX,2021/2022,8/7/2021,3:05,Necaxa,Cruz Azul,1,2,A
+Mexico,Liga MX,2021/2022,8/7/2021,3:06,Club Tijuana,Toluca,0,2,A
+Mexico,Liga MX,2021/2022,8/7/2021,23:00,Guadalajara Chivas,Juarez,2,2,D
+Mexico,Liga MX,2021/2022,8/6/2021,3:05,Queretaro,Club Leon,0,1,A
+Mexico,Liga MX,2021/2022,8/3/2021,3:00,Atl. San Luis,Queretaro,1,1,D
+Mexico,Liga MX,2021/2022,8/2/2021,0:00,Santos Laguna,Cruz Azul,1,1,D
+Mexico,Liga MX,2021/2022,8/1/2021,1:00,Club America,Necaxa,2,1,H
+Mexico,Liga MX,2021/2022,8/1/2021,3:00,Monterrey,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2021/2022,8/1/2021,3:05,Atlas,Juarez,2,0,H
+Mexico,Liga MX,2021/2022,8/1/2021,18:00,Toluca,U.A.N.L.- Tigres,3,1,H
+Mexico,Liga MX,2021/2022,7/31/2021,1:00,Mazatlan FC,Pachuca,2,1,H
+Mexico,Liga MX,2021/2022,7/31/2021,3:05,Puebla,Guadalajara Chivas,0,2,A
+Mexico,Liga MX,2021/2022,7/31/2021,23:00,Club Leon,Club Tijuana,2,1,H
+Mexico,Liga MX,2021/2022,7/27/2021,2:00,Cruz Azul,Mazatlan FC,0,2,A
+Mexico,Liga MX,2021/2022,7/26/2021,1:06,Monterrey,Puebla,1,1,D
+Mexico,Liga MX,2021/2022,7/26/2021,3:06,Club Tijuana,U.A.N.L.- Tigres,1,2,A
+Mexico,Liga MX,2021/2022,7/25/2021,3:00,Guadalajara Chivas,Atl. San Luis,1,2,A
+Mexico,Liga MX,2021/2022,7/25/2021,18:00,U.N.A.M.- Pumas,Atlas,0,0,D
+Mexico,Liga MX,2021/2022,7/24/2021,1:00,Necaxa,Santos Laguna,0,3,A
+Mexico,Liga MX,2021/2022,7/24/2021,3:00,Juarez,Toluca,1,3,A
+Mexico,Liga MX,2021/2022,7/24/2021,22:00,Pachuca,Club Leon,4,0,H
+Mexico,Liga MX,2021/2022,7/23/2021,3:00,Queretaro,Club America,0,0,D
+Mexico,Liga MX,2020/2021,5/31/2021,2:15,Cruz Azul,Santos Laguna,1,1,D
+Mexico,Liga MX,2020/2021,5/28/2021,3:00,Santos Laguna,Cruz Azul,0,1,A
+Mexico,Liga MX,2020/2021,5/24/2021,1:00,Puebla,Santos Laguna,1,0,H
+Mexico,Liga MX,2020/2021,5/23/2021,2:00,Cruz Azul,Pachuca,1,0,H
+Mexico,Liga MX,2020/2021,5/21/2021,3:00,Santos Laguna,Puebla,3,0,H
+Mexico,Liga MX,2020/2021,5/20/2021,2:30,Pachuca,Cruz Azul,0,0,D
+Mexico,Liga MX,2020/2021,5/17/2021,0:00,Monterrey,Santos Laguna,1,1,D
+Mexico,Liga MX,2020/2021,5/17/2021,2:05,Club America,Pachuca,4,2,H
+Mexico,Liga MX,2020/2021,5/16/2021,0:00,Puebla,Atlas,1,0,H
+Mexico,Liga MX,2020/2021,5/16/2021,2:05,Cruz Azul,Toluca,3,1,H
+Mexico,Liga MX,2020/2021,5/14/2021,1:00,Pachuca,Club America,3,1,H
+Mexico,Liga MX,2020/2021,5/14/2021,3:05,Santos Laguna,Monterrey,2,1,H
+Mexico,Liga MX,2020/2021,5/13/2021,1:00,Toluca,Cruz Azul,2,1,H
+Mexico,Liga MX,2020/2021,5/13/2021,3:05,Atlas,Puebla,1,0,H
+Mexico,Liga MX,2020/2021,5/10/2021,1:00,Club Leon,Toluca,2,2,D
+Mexico,Liga MX,2020/2021,5/10/2021,3:15,Pachuca,Guadalajara Chivas,4,2,H
+Mexico,Liga MX,2020/2021,5/9/2021,1:00,Atlas,U.A.N.L.- Tigres,1,0,H
+Mexico,Liga MX,2020/2021,5/9/2021,3:15,Santos Laguna,Queretaro,5,0,H
+Mexico,Liga MX,2020/2021,5/3/2021,1:06,Santos Laguna,Puebla,0,0,D
+Mexico,Liga MX,2020/2021,5/3/2021,3:05,U.N.A.M.- Pumas,Club America,0,1,A
+Mexico,Liga MX,2020/2021,5/2/2021,1:00,Cruz Azul,Club Tijuana,1,1,D
+Mexico,Liga MX,2020/2021,5/2/2021,3:06,Monterrey,Mazatlan FC,1,0,H
+Mexico,Liga MX,2020/2021,5/1/2021,1:30,Necaxa,Atlas,1,5,A
+Mexico,Liga MX,2020/2021,5/1/2021,3:30,Juarez,Toluca,1,0,H
+Mexico,Liga MX,2020/2021,5/1/2021,23:00,Club Leon,Queretaro,2,1,H
+Mexico,Liga MX,2020/2021,5/1/2021,23:00,Guadalajara Chivas,U.A.N.L.- Tigres,0,0,D
+Mexico,Liga MX,2020/2021,4/30/2021,3:00,Atl. San Luis,Pachuca,1,5,A
+Mexico,Liga MX,2020/2021,4/27/2021,3:00,Pachuca,Santos Laguna,1,0,H
+Mexico,Liga MX,2020/2021,4/26/2021,1:30,Queretaro,Juarez,1,0,H
+Mexico,Liga MX,2020/2021,4/25/2021,1:00,Atlas,Guadalajara Chivas,0,1,A
+Mexico,Liga MX,2020/2021,4/25/2021,3:10,U.A.N.L.- Tigres,Monterrey,2,1,H
+Mexico,Liga MX,2020/2021,4/25/2021,23:30,Toluca,Club America,3,1,H
+Mexico,Liga MX,2020/2021,4/24/2021,1:30,Puebla,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2020/2021,4/24/2021,3:06,Club Tijuana,Necaxa,1,0,H
+Mexico,Liga MX,2020/2021,4/24/2021,3:30,Mazatlan FC,Club Leon,4,3,H
+Mexico,Liga MX,2020/2021,4/24/2021,23:00,Cruz Azul,Atl. San Luis,3,2,H
+Mexico,Liga MX,2020/2021,4/22/2021,3:00,Monterrey,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2020/2021,4/20/2021,3:00,Club Leon,Juarez,2,0,H
+Mexico,Liga MX,2020/2021,4/19/2021,1:00,Santos Laguna,Toluca,3,1,H
+Mexico,Liga MX,2020/2021,4/19/2021,3:06,Monterrey,Pachuca,0,1,A
+Mexico,Liga MX,2020/2021,4/18/2021,1:00,Guadalajara Chivas,Club Tijuana,2,0,H
+Mexico,Liga MX,2020/2021,4/18/2021,3:05,Club America,Cruz Azul,1,1,D
+Mexico,Liga MX,2020/2021,4/18/2021,18:00,U.N.A.M.- Pumas,U.A.N.L.- Tigres,0,0,D
+Mexico,Liga MX,2020/2021,4/17/2021,1:30,Necaxa,Queretaro,0,0,D
+Mexico,Liga MX,2020/2021,4/17/2021,3:30,Mazatlan FC,Atlas,0,0,D
+Mexico,Liga MX,2020/2021,4/17/2021,23:00,Atl. San Luis,Puebla,1,4,A
+Mexico,Liga MX,2020/2021,4/15/2021,3:00,Juarez,U.A.N.L.- Tigres,2,3,A
+Mexico,Liga MX,2020/2021,4/13/2021,3:00,Pachuca,Puebla,1,3,A
+Mexico,Liga MX,2020/2021,4/12/2021,1:00,Queretaro,Santos Laguna,1,0,H
+Mexico,Liga MX,2020/2021,4/12/2021,3:06,Club Tijuana,Mazatlan FC,2,3,A
+Mexico,Liga MX,2020/2021,4/11/2021,1:00,Cruz Azul,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2020/2021,4/11/2021,3:05,U.A.N.L.- Tigres,Club America,1,3,A
+Mexico,Liga MX,2020/2021,4/11/2021,18:00,Toluca,Monterrey,1,2,A
+Mexico,Liga MX,2020/2021,4/10/2021,1:30,Necaxa,U.N.A.M.- Pumas,0,1,A
+Mexico,Liga MX,2020/2021,4/10/2021,3:30,Juarez,Atl. San Luis,2,1,H
+Mexico,Liga MX,2020/2021,4/10/2021,23:00,Atlas,Club Leon,1,3,A
+Mexico,Liga MX,2020/2021,4/5/2021,1:00,Queretaro,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2020/2021,4/5/2021,3:05,Club Leon,Toluca,2,1,H
+Mexico,Liga MX,2020/2021,4/4/2021,0:00,Atlas,Club Tijuana,1,0,H
+Mexico,Liga MX,2020/2021,4/4/2021,2:00,Club America,Necaxa,2,1,H
+Mexico,Liga MX,2020/2021,4/4/2021,4:06,Monterrey,Atl. San Luis,2,0,H
+Mexico,Liga MX,2020/2021,4/4/2021,18:00,U.N.A.M.- Pumas,Pachuca,2,2,D
+Mexico,Liga MX,2020/2021,4/4/2021,23:00,Guadalajara Chivas,Santos Laguna,1,1,D
+Mexico,Liga MX,2020/2021,4/3/2021,2:30,Puebla,Mazatlan FC,3,1,H
+Mexico,Liga MX,2020/2021,4/3/2021,4:30,Juarez,Cruz Azul,0,1,A
+Mexico,Liga MX,2020/2021,3/22/2021,1:06,Santos Laguna,Club Leon,1,2,A
+Mexico,Liga MX,2020/2021,3/21/2021,1:00,Cruz Azul,Atlas,3,2,H
+Mexico,Liga MX,2020/2021,3/21/2021,3:06,Club Tijuana,Queretaro,3,1,H
+Mexico,Liga MX,2020/2021,3/21/2021,18:00,Toluca,Puebla,4,4,D
+Mexico,Liga MX,2020/2021,3/20/2021,1:00,Necaxa,Juarez,1,0,H
+Mexico,Liga MX,2020/2021,3/20/2021,3:00,Mazatlan FC,Club America,0,1,A
+Mexico,Liga MX,2020/2021,3/20/2021,23:00,Atl. San Luis,U.N.A.M.- Pumas,0,1,A
+Mexico,Liga MX,2020/2021,3/19/2021,2:00,Pachuca,U.A.N.L.- Tigres,1,0,H
+Mexico,Liga MX,2020/2021,3/16/2021,3:00,Club Leon,Necaxa,3,1,H
+Mexico,Liga MX,2020/2021,3/15/2021,0:00,Queretaro,Atl. San Luis,2,1,H
+Mexico,Liga MX,2020/2021,3/15/2021,2:00,Guadalajara Chivas,Club America,0,3,A
+Mexico,Liga MX,2020/2021,3/14/2021,1:00,U.A.N.L.- Tigres,Mazatlan FC,1,2,A
+Mexico,Liga MX,2020/2021,3/14/2021,3:00,Cruz Azul,Monterrey,1,0,H
+Mexico,Liga MX,2020/2021,3/14/2021,3:06,Club Tijuana,Santos Laguna,0,1,A
+Mexico,Liga MX,2020/2021,3/14/2021,18:00,Toluca,Pachuca,0,2,A
+Mexico,Liga MX,2020/2021,3/13/2021,1:30,Puebla,Atlas,0,1,A
+Mexico,Liga MX,2020/2021,3/13/2021,3:30,Juarez,U.N.A.M.- Pumas,1,1,D
+Mexico,Liga MX,2020/2021,3/11/2021,3:00,Monterrey,Club Leon,1,1,D
+Mexico,Liga MX,2020/2021,3/9/2021,3:00,Pachuca,Club Tijuana,2,1,H
+Mexico,Liga MX,2020/2021,3/8/2021,1:06,Santos Laguna,Necaxa,3,1,H
+Mexico,Liga MX,2020/2021,3/8/2021,3:00,U.N.A.M.- Pumas,Cruz Azul,0,1,A
+Mexico,Liga MX,2020/2021,3/7/2021,1:00,Club America,Club Leon,2,1,H
+Mexico,Liga MX,2020/2021,3/7/2021,1:06,Monterrey,Queretaro,2,1,H
+Mexico,Liga MX,2020/2021,3/7/2021,3:00,Mazatlan FC,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2020/2021,3/6/2021,1:30,Atl. San Luis,Toluca,0,0,D
+Mexico,Liga MX,2020/2021,3/6/2021,3:30,Puebla,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2020/2021,3/6/2021,23:00,Atlas,Juarez,2,0,H
+Mexico,Liga MX,2020/2021,3/5/2021,1:00,Necaxa,Pachuca,2,2,D
+Mexico,Liga MX,2020/2021,3/5/2021,3:00,U.N.A.M.- Pumas,Santos Laguna,1,0,H
+Mexico,Liga MX,2020/2021,3/4/2021,1:00,Juarez,Monterrey,1,6,A
+Mexico,Liga MX,2020/2021,3/4/2021,1:00,Queretaro,Guadalajara Chivas,2,2,D
+Mexico,Liga MX,2020/2021,3/4/2021,3:00,Cruz Azul,Mazatlan FC,1,0,H
+Mexico,Liga MX,2020/2021,3/4/2021,3:06,Club Tijuana,Club America,0,2,A
+Mexico,Liga MX,2020/2021,3/3/2021,1:00,U.A.N.L.- Tigres,Toluca,0,1,A
+Mexico,Liga MX,2020/2021,3/3/2021,3:00,Club Leon,Puebla,1,2,A
+Mexico,Liga MX,2020/2021,3/2/2021,23:00,Atlas,Atl. San Luis,3,1,H
+Mexico,Liga MX,2020/2021,3/1/2021,1:06,Santos Laguna,Juarez,3,2,H
+Mexico,Liga MX,2020/2021,3/1/2021,3:00,Guadalajara Chivas,U.N.A.M.- Pumas,2,1,H
+Mexico,Liga MX,2020/2021,2/28/2021,1:00,Club America,Pachuca,2,0,H
+Mexico,Liga MX,2020/2021,2/28/2021,3:00,Club Leon,Cruz Azul,0,1,A
+Mexico,Liga MX,2020/2021,2/28/2021,23:00,Monterrey,Club Tijuana,1,1,D
+Mexico,Liga MX,2020/2021,2/27/2021,1:30,Puebla,Necaxa,1,0,H
+Mexico,Liga MX,2020/2021,2/27/2021,3:30,Mazatlan FC,Queretaro,3,0,H
+Mexico,Liga MX,2020/2021,2/27/2021,23:00,Toluca,Atlas,0,0,D
+Mexico,Liga MX,2020/2021,2/26/2021,3:00,Atl. San Luis,U.A.N.L.- Tigres,2,2,D
+Mexico,Liga MX,2020/2021,2/23/2021,3:00,Pachuca,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2020/2021,2/22/2021,1:00,U.A.N.L.- Tigres,Club Tijuana,3,2,H
+Mexico,Liga MX,2020/2021,2/21/2021,1:00,Cruz Azul,Toluca,3,2,H
+Mexico,Liga MX,2020/2021,2/21/2021,3:00,Atlas,Club America,0,2,A
+Mexico,Liga MX,2020/2021,2/21/2021,18:00,U.N.A.M.- Pumas,Club Leon,0,1,A
+Mexico,Liga MX,2020/2021,2/21/2021,23:00,Queretaro,Puebla,1,1,D
+Mexico,Liga MX,2020/2021,2/20/2021,1:30,Necaxa,Monterrey,1,1,D
+Mexico,Liga MX,2020/2021,2/20/2021,3:30,Juarez,Mazatlan FC,1,0,H
+Mexico,Liga MX,2020/2021,2/19/2021,3:00,Atl. San Luis,Santos Laguna,1,0,H
+Mexico,Liga MX,2020/2021,2/18/2021,3:00,U.A.N.L.- Tigres,Cruz Azul,0,2,A
+Mexico,Liga MX,2020/2021,2/16/2021,3:00,Pachuca,Atlas,0,1,A
+Mexico,Liga MX,2020/2021,2/15/2021,1:06,Santos Laguna,Monterrey,1,0,H
+Mexico,Liga MX,2020/2021,2/14/2021,1:00,Guadalajara Chivas,Necaxa,2,2,D
+Mexico,Liga MX,2020/2021,2/14/2021,3:00,Club America,Queretaro,2,1,H
+Mexico,Liga MX,2020/2021,2/14/2021,18:00,Toluca,U.N.A.M.- Pumas,1,0,H
+Mexico,Liga MX,2020/2021,2/13/2021,1:30,Puebla,Juarez,4,0,H
+Mexico,Liga MX,2020/2021,2/13/2021,3:06,Club Tijuana,Club Leon,2,0,H
+Mexico,Liga MX,2020/2021,2/13/2021,3:30,Mazatlan FC,Atl. San Luis,0,3,A
+Mexico,Liga MX,2020/2021,2/9/2021,3:00,Club Leon,Guadalajara Chivas,1,3,A
+Mexico,Liga MX,2020/2021,2/7/2021,1:00,Club America,Puebla,1,0,H
+Mexico,Liga MX,2020/2021,2/7/2021,3:06,Monterrey,U.N.A.M.- Pumas,1,0,H
+Mexico,Liga MX,2020/2021,2/7/2021,18:00,Toluca,Mazatlan FC,4,1,H
+Mexico,Liga MX,2020/2021,2/6/2021,3:30,Necaxa,Cruz Azul,0,2,A
+Mexico,Liga MX,2020/2021,2/6/2021,23:00,Atlas,Santos Laguna,1,1,D
+Mexico,Liga MX,2020/2021,2/5/2021,1:00,Atl. San Luis,Club Tijuana,2,2,D
+Mexico,Liga MX,2020/2021,2/5/2021,3:00,Queretaro,Pachuca,3,1,H
+Mexico,Liga MX,2020/2021,2/3/2021,3:00,Puebla,Monterrey,0,0,D
+Mexico,Liga MX,2020/2021,2/2/2021,3:00,Club Leon,Atl. San Luis,3,1,H
+Mexico,Liga MX,2020/2021,2/1/2021,1:06,Santos Laguna,Club America,1,1,D
+Mexico,Liga MX,2020/2021,1/31/2021,1:00,Guadalajara Chivas,Juarez,1,2,A
+Mexico,Liga MX,2020/2021,1/31/2021,3:00,Cruz Azul,Queretaro,4,1,H
+Mexico,Liga MX,2020/2021,1/31/2021,3:06,Club Tijuana,Toluca,3,2,H
+Mexico,Liga MX,2020/2021,1/31/2021,18:00,U.N.A.M.- Pumas,Atlas,0,0,D
+Mexico,Liga MX,2020/2021,1/30/2021,3:30,Mazatlan FC,Pachuca,1,0,H
+Mexico,Liga MX,2020/2021,1/29/2021,3:00,U.A.N.L.- Tigres,Necaxa,1,1,D
+Mexico,Liga MX,2020/2021,1/27/2021,2:30,Club America,Juarez,2,0,H
+Mexico,Liga MX,2020/2021,1/26/2021,3:00,Pachuca,Cruz Azul,0,1,A
+Mexico,Liga MX,2020/2021,1/25/2021,1:00,Queretaro,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2020/2021,1/24/2021,1:00,Atlas,U.A.N.L.- Tigres,0,2,A
+Mexico,Liga MX,2020/2021,1/24/2021,18:00,Toluca,Necaxa,2,0,H
+Mexico,Liga MX,2020/2021,1/23/2021,1:30,Puebla,Club Tijuana,0,1,A
+Mexico,Liga MX,2020/2021,1/23/2021,3:30,Mazatlan FC,Santos Laguna,0,0,D
+Mexico,Liga MX,2020/2021,1/22/2021,3:00,Atl. San Luis,Guadalajara Chivas,3,1,H
+Mexico,Liga MX,2020/2021,1/19/2021,3:00,Club Leon,Pachuca,0,0,D
+Mexico,Liga MX,2020/2021,1/18/2021,1:06,Santos Laguna,U.A.N.L.- Tigres,2,0,H
+Mexico,Liga MX,2020/2021,1/18/2021,3:06,Queretaro,Atlas,1,0,H
+Mexico,Liga MX,2020/2021,1/17/2021,1:00,Cruz Azul,Puebla,0,1,A
+Mexico,Liga MX,2020/2021,1/17/2021,3:06,Monterrey,Club America,1,0,H
+Mexico,Liga MX,2020/2021,1/17/2021,18:00,U.N.A.M.- Pumas,Mazatlan FC,3,0,H
+Mexico,Liga MX,2020/2021,1/16/2021,1:30,Necaxa,Atl. San Luis,1,0,H
+Mexico,Liga MX,2020/2021,1/16/2021,3:30,Juarez,Club Tijuana,0,0,D
+Mexico,Liga MX,2020/2021,1/16/2021,23:00,Guadalajara Chivas,Toluca,1,1,D
+Mexico,Liga MX,2020/2021,1/12/2021,3:00,Pachuca,Juarez,1,1,D
+Mexico,Liga MX,2020/2021,1/11/2021,1:06,Santos Laguna,Cruz Azul,1,0,H
+Mexico,Liga MX,2020/2021,1/10/2021,1:00,U.A.N.L.- Tigres,Club Leon,2,0,H
+Mexico,Liga MX,2020/2021,1/10/2021,3:00,Club America,Atl. San Luis,2,1,H
+Mexico,Liga MX,2020/2021,1/10/2021,18:00,Toluca,Queretaro,3,1,H
+Mexico,Liga MX,2020/2021,1/9/2021,1:30,Puebla,Guadalajara Chivas,1,1,D
+Mexico,Liga MX,2020/2021,1/9/2021,3:06,Club Tijuana,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2020/2021,1/9/2021,3:30,Mazatlan FC,Necaxa,3,2,H
+Mexico,Liga MX,2020/2021,1/9/2021,23:00,Atlas,Monterrey,0,2,A
+Mexico,Liga MX,2020/2021,12/15/2020,2:30,Club Leon,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2020/2021,12/11/2020,3:00,U.N.A.M.- Pumas,Club Leon,1,1,D
+Mexico,Liga MX,2020/2021,12/7/2020,0:30,U.N.A.M.- Pumas,Cruz Azul,4,0,H
+Mexico,Liga MX,2020/2021,12/6/2020,3:00,Club Leon,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2020/2021,12/4/2020,3:00,Cruz Azul,U.N.A.M.- Pumas,4,0,H
+Mexico,Liga MX,2020/2021,12/3/2020,3:05,Guadalajara Chivas,Club Leon,1,1,D
+Mexico,Liga MX,2020/2021,11/30/2020,0:30,Cruz Azul,U.A.N.L.- Tigres,0,1,A
+Mexico,Liga MX,2020/2021,11/29/2020,1:00,Club Leon,Puebla,2,0,H
+Mexico,Liga MX,2020/2021,11/29/2020,3:06,Club America,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2020/2021,11/29/2020,18:00,U.N.A.M.- Pumas,Pachuca,0,0,D
+Mexico,Liga MX,2020/2021,11/27/2020,1:00,U.A.N.L.- Tigres,Cruz Azul,1,3,A
+Mexico,Liga MX,2020/2021,11/27/2020,3:06,Pachuca,U.N.A.M.- Pumas,0,1,A
+Mexico,Liga MX,2020/2021,11/26/2020,1:00,Puebla,Club Leon,2,1,H
+Mexico,Liga MX,2020/2021,11/26/2020,3:06,Guadalajara Chivas,Club America,1,0,H
+Mexico,Liga MX,2020/2021,11/23/2020,1:00,U.A.N.L.- Tigres,Toluca,2,1,H
+Mexico,Liga MX,2020/2021,11/23/2020,3:10,Monterrey,Puebla,2,2,D
+Mexico,Liga MX,2020/2021,11/22/2020,1:00,Santos Laguna,Pachuca,0,3,A
+Mexico,Liga MX,2020/2021,11/22/2020,3:10,Guadalajara Chivas,Necaxa,1,0,H
+Mexico,Liga MX,2020/2021,11/9/2020,1:06,Santos Laguna,Mazatlan FC,4,0,H
+Mexico,Liga MX,2020/2021,11/9/2020,3:06,Queretaro,Club Tijuana,2,2,D
+Mexico,Liga MX,2020/2021,11/8/2020,1:00,U.A.N.L.- Tigres,Atlas,1,1,D
+Mexico,Liga MX,2020/2021,11/8/2020,3:00,Cruz Azul,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2020/2021,11/8/2020,18:00,Toluca,Club Leon,2,2,D
+Mexico,Liga MX,2020/2021,11/7/2020,1:30,Puebla,Atl. San Luis,1,0,H
+Mexico,Liga MX,2020/2021,11/7/2020,3:30,Juarez,Club America,1,1,D
+Mexico,Liga MX,2020/2021,11/7/2020,23:00,Guadalajara Chivas,Monterrey,3,1,H
+Mexico,Liga MX,2020/2021,11/7/2020,23:00,Pachuca,Necaxa,0,1,A
+Mexico,Liga MX,2020/2021,11/3/2020,3:00,Club Leon,Santos Laguna,2,1,H
+Mexico,Liga MX,2020/2021,11/1/2020,1:00,U.N.A.M.- Pumas,Guadalajara Chivas,2,2,D
+Mexico,Liga MX,2020/2021,11/1/2020,3:06,Monterrey,Cruz Azul,1,0,H
+Mexico,Liga MX,2020/2021,11/1/2020,23:30,Club America,U.A.N.L.- Tigres,3,1,H
+Mexico,Liga MX,2020/2021,10/31/2020,1:30,Necaxa,Toluca,3,2,H
+Mexico,Liga MX,2020/2021,10/31/2020,3:06,Club Tijuana,Pachuca,0,2,A
+Mexico,Liga MX,2020/2021,10/31/2020,3:30,Juarez,Queretaro,1,0,H
+Mexico,Liga MX,2020/2021,10/31/2020,23:00,Atlas,Puebla,0,1,A
+Mexico,Liga MX,2020/2021,10/30/2020,3:00,Atl. San Luis,Mazatlan FC,0,5,A
+Mexico,Liga MX,2020/2021,10/27/2020,3:00,Pachuca,U.N.A.M.- Pumas,1,1,D
+Mexico,Liga MX,2020/2021,10/26/2020,1:06,Santos Laguna,Atl. San Luis,2,1,H
+Mexico,Liga MX,2020/2021,10/25/2020,1:00,U.A.N.L.- Tigres,Juarez,1,1,D
+Mexico,Liga MX,2020/2021,10/25/2020,2:00,Club America,Atlas,1,0,H
+Mexico,Liga MX,2020/2021,10/25/2020,2:00,Mazatlan FC,Monterrey,1,2,A
+Mexico,Liga MX,2020/2021,10/25/2020,18:00,Toluca,Club Tijuana,2,0,H
+Mexico,Liga MX,2020/2021,10/25/2020,23:30,Guadalajara Chivas,Cruz Azul,0,2,A
+Mexico,Liga MX,2020/2021,10/24/2020,1:30,Puebla,Club Leon,1,2,A
+Mexico,Liga MX,2020/2021,10/24/2020,23:00,Queretaro,Necaxa,0,1,A
+Mexico,Liga MX,2020/2021,10/20/2020,3:00,Club Leon,Club America,3,2,H
+Mexico,Liga MX,2020/2021,10/19/2020,1:06,Santos Laguna,Pachuca,1,1,D
+Mexico,Liga MX,2020/2021,10/18/2020,1:00,Guadalajara Chivas,Atlas,3,2,H
+Mexico,Liga MX,2020/2021,10/18/2020,3:00,Cruz Azul,U.A.N.L.- Tigres,0,2,A
+Mexico,Liga MX,2020/2021,10/18/2020,18:00,U.N.A.M.- Pumas,Toluca,1,0,H
+Mexico,Liga MX,2020/2021,10/17/2020,1:30,Necaxa,Club Tijuana,2,0,H
+Mexico,Liga MX,2020/2021,10/17/2020,3:30,Mazatlan FC,Juarez,3,2,H
+Mexico,Liga MX,2020/2021,10/17/2020,23:06,Monterrey,Puebla,3,1,H
+Mexico,Liga MX,2020/2021,10/16/2020,3:00,Atl. San Luis,Queretaro,2,1,H
+Mexico,Liga MX,2020/2021,10/12/2020,1:06,Santos Laguna,Club Tijuana,2,0,H
+Mexico,Liga MX,2020/2021,10/5/2020,1:00,Queretaro,Monterrey,1,2,A
+Mexico,Liga MX,2020/2021,10/5/2020,3:06,Club Tijuana,Guadalajara Chivas,0,0,D
+Mexico,Liga MX,2020/2021,10/4/2020,1:00,U.A.N.L.- Tigres,Atl. San Luis,3,0,H
+Mexico,Liga MX,2020/2021,10/4/2020,3:00,Club America,U.N.A.M.- Pumas,2,2,D
+Mexico,Liga MX,2020/2021,10/4/2020,18:00,Toluca,Cruz Azul,2,0,H
+Mexico,Liga MX,2020/2021,10/4/2020,23:00,Juarez,Pachuca,1,1,D
+Mexico,Liga MX,2020/2021,10/3/2020,1:30,Puebla,Santos Laguna,0,2,A
+Mexico,Liga MX,2020/2021,10/3/2020,3:30,Club Leon,Mazatlan FC,2,1,H
+Mexico,Liga MX,2020/2021,10/3/2020,23:00,Atlas,Necaxa,0,1,A
+Mexico,Liga MX,2020/2021,10/1/2020,1:06,Club Tijuana,Juarez,2,1,H
+Mexico,Liga MX,2020/2021,9/28/2020,2:45,Cruz Azul,Club America,0,0,D
+Mexico,Liga MX,2020/2021,9/27/2020,1:00,U.N.A.M.- Pumas,Necaxa,1,1,D
+Mexico,Liga MX,2020/2021,9/27/2020,3:06,Monterrey,U.A.N.L.- Tigres,0,2,A
+Mexico,Liga MX,2020/2021,9/27/2020,23:00,Atl. San Luis,Club Leon,0,2,A
+Mexico,Liga MX,2020/2021,9/26/2020,1:30,Puebla,Queretaro,3,3,D
+Mexico,Liga MX,2020/2021,9/26/2020,3:30,Juarez,Atlas,0,1,A
+Mexico,Liga MX,2020/2021,9/26/2020,23:00,Guadalajara Chivas,Mazatlan FC,2,1,H
+Mexico,Liga MX,2020/2021,9/25/2020,3:00,Pachuca,Toluca,0,0,D
+Mexico,Liga MX,2020/2021,9/22/2020,3:00,Club Leon,U.N.A.M.- Pumas,2,0,H
+Mexico,Liga MX,2020/2021,9/21/2020,1:00,Atl. San Luis,Monterrey,1,2,A
+Mexico,Liga MX,2020/2021,9/20/2020,1:00,U.A.N.L.- Tigres,Queretaro,3,0,H
+Mexico,Liga MX,2020/2021,9/20/2020,3:00,Club America,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2020/2021,9/20/2020,18:00,Toluca,Santos Laguna,1,2,A
+Mexico,Liga MX,2020/2021,9/19/2020,1:30,Necaxa,Puebla,0,1,A
+Mexico,Liga MX,2020/2021,9/19/2020,3:30,Mazatlan FC,Cruz Azul,2,3,A
+Mexico,Liga MX,2020/2021,9/19/2020,23:00,Atlas,Pachuca,0,1,A
+Mexico,Liga MX,2020/2021,9/15/2020,3:00,Pachuca,Monterrey,1,1,D
+Mexico,Liga MX,2020/2021,9/14/2020,1:00,Queretaro,Club Leon,2,3,A
+Mexico,Liga MX,2020/2021,9/14/2020,3:06,Club Tijuana,Cruz Azul,1,2,A
+Mexico,Liga MX,2020/2021,9/13/2020,1:00,U.A.N.L.- Tigres,Santos Laguna,2,0,H
+Mexico,Liga MX,2020/2021,9/13/2020,3:00,Club America,Toluca,1,1,D
+Mexico,Liga MX,2020/2021,9/13/2020,18:00,U.N.A.M.- Pumas,Atl. San Luis,3,0,H
+Mexico,Liga MX,2020/2021,9/12/2020,1:30,Necaxa,Guadalajara Chivas,1,2,A
+Mexico,Liga MX,2020/2021,9/12/2020,3:30,Juarez,Puebla,1,0,H
+Mexico,Liga MX,2020/2021,9/12/2020,23:00,Atlas,Mazatlan FC,1,1,D
+Mexico,Liga MX,2020/2021,9/10/2020,1:00,Cruz Azul,Pachuca,1,0,H
+Mexico,Liga MX,2020/2021,9/10/2020,3:00,Mazatlan FC,Club Tijuana,1,0,H
+Mexico,Liga MX,2020/2021,9/10/2020,3:06,Santos Laguna,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2020/2021,9/9/2020,1:00,Toluca,Juarez,0,1,A
+Mexico,Liga MX,2020/2021,9/9/2020,1:06,Monterrey,Atlas,1,1,D
+Mexico,Liga MX,2020/2021,9/9/2020,3:00,Guadalajara Chivas,Queretaro,1,1,D
+Mexico,Liga MX,2020/2021,9/9/2020,3:00,Puebla,Club America,2,3,A
+Mexico,Liga MX,2020/2021,9/9/2020,23:00,Club Leon,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2020/2021,9/8/2020,23:00,Atl. San Luis,Necaxa,2,1,H
+Mexico,Liga MX,2020/2021,9/6/2020,1:00,Atlas,Cruz Azul,1,0,H
+Mexico,Liga MX,2020/2021,9/6/2020,3:00,U.A.N.L.- Tigres,Guadalajara Chivas,1,3,A
+Mexico,Liga MX,2020/2021,9/5/2020,1:30,Necaxa,Club Leon,0,2,A
+Mexico,Liga MX,2020/2021,9/5/2020,3:06,Club Tijuana,Monterrey,2,1,H
+Mexico,Liga MX,2020/2021,9/5/2020,3:30,Juarez,Santos Laguna,1,1,D
+Mexico,Liga MX,2020/2021,9/5/2020,23:00,U.N.A.M.- Pumas,Puebla,4,1,H
+Mexico,Liga MX,2020/2021,9/4/2020,1:00,Queretaro,Toluca,4,1,H
+Mexico,Liga MX,2020/2021,9/4/2020,3:00,Pachuca,Atl. San Luis,3,1,H
+Mexico,Liga MX,2020/2021,9/3/2020,2:00,Club America,Mazatlan FC,3,1,H
+Mexico,Liga MX,2020/2021,9/1/2020,3:05,Club Leon,Atlas,2,1,H
+Mexico,Liga MX,2020/2021,8/31/2020,1:06,Santos Laguna,Queretaro,2,1,H
+Mexico,Liga MX,2020/2021,8/31/2020,3:06,Monterrey,Juarez,2,1,H
+Mexico,Liga MX,2020/2021,8/30/2020,1:00,Atl. San Luis,Club America,1,2,A
+Mexico,Liga MX,2020/2021,8/30/2020,1:00,Guadalajara Chivas,Pachuca,0,0,D
+Mexico,Liga MX,2020/2021,8/30/2020,3:00,Cruz Azul,Necaxa,3,0,H
+Mexico,Liga MX,2020/2021,8/30/2020,18:00,U.N.A.M.- Pumas,Club Tijuana,3,0,H
+Mexico,Liga MX,2020/2021,8/29/2020,1:30,Puebla,Toluca,4,1,H
+Mexico,Liga MX,2020/2021,8/29/2020,3:35,Mazatlan FC,U.A.N.L.- Tigres,1,1,D
+Mexico,Liga MX,2020/2021,8/25/2020,3:05,Pachuca,Mazatlan FC,4,3,H
+Mexico,Liga MX,2020/2021,8/24/2020,1:35,Atl. San Luis,Cruz Azul,1,3,A
+Mexico,Liga MX,2020/2021,8/24/2020,3:06,Club Tijuana,Puebla,1,0,H
+Mexico,Liga MX,2020/2021,8/23/2020,1:00,U.A.N.L.- Tigres,U.N.A.M.- Pumas,1,1,D
+Mexico,Liga MX,2020/2021,8/23/2020,3:00,Club America,Monterrey,1,3,A
+Mexico,Liga MX,2020/2021,8/23/2020,23:30,Toluca,Guadalajara Chivas,1,0,H
+Mexico,Liga MX,2020/2021,8/22/2020,1:30,Necaxa,Santos Laguna,2,1,H
+Mexico,Liga MX,2020/2021,8/22/2020,3:30,Juarez,Club Leon,0,0,D
+Mexico,Liga MX,2020/2021,8/22/2020,23:00,Atlas,Queretaro,1,0,H
+Mexico,Liga MX,2020/2021,8/18/2020,3:00,Club Leon,Club Tijuana,2,1,H
+Mexico,Liga MX,2020/2021,8/17/2020,1:06,Santos Laguna,Atlas,0,0,D
+Mexico,Liga MX,2020/2021,8/17/2020,3:00,Queretaro,Club America,4,1,H
+Mexico,Liga MX,2020/2021,8/16/2020,1:00,Cruz Azul,Juarez,3,2,H
+Mexico,Liga MX,2020/2021,8/16/2020,3:00,Mazatlan FC,U.N.A.M.- Pumas,0,0,D
+Mexico,Liga MX,2020/2021,8/16/2020,3:06,Monterrey,Necaxa,1,1,D
+Mexico,Liga MX,2020/2021,8/16/2020,18:00,Toluca,U.A.N.L.- Tigres,3,2,H
+Mexico,Liga MX,2020/2021,8/15/2020,3:30,Puebla,Pachuca,0,1,A
+Mexico,Liga MX,2020/2021,8/15/2020,23:00,Guadalajara Chivas,Atl. San Luis,2,1,H
+Mexico,Liga MX,2020/2021,8/14/2020,1:00,Atlas,Toluca,1,2,A
+Mexico,Liga MX,2020/2021,8/14/2020,3:00,Club America,Santos Laguna,3,1,H
+Mexico,Liga MX,2020/2021,8/13/2020,1:00,Juarez,Guadalajara Chivas,0,2,A
+Mexico,Liga MX,2020/2021,8/13/2020,3:00,U.N.A.M.- Pumas,Monterrey,1,1,D
+Mexico,Liga MX,2020/2021,8/13/2020,3:06,Club Tijuana,Atl. San Luis,0,2,A
+Mexico,Liga MX,2020/2021,8/12/2020,1:00,Pachuca,Club Leon,0,1,A
+Mexico,Liga MX,2020/2021,8/12/2020,3:00,U.A.N.L.- Tigres,Puebla,2,1,H
+Mexico,Liga MX,2020/2021,8/12/2020,23:00,Queretaro,Cruz Azul,1,0,H
+Mexico,Liga MX,2020/2021,8/11/2020,23:00,Necaxa,Mazatlan FC,1,0,H
+Mexico,Liga MX,2020/2021,8/10/2020,1:00,Atl. San Luis,Atlas,1,1,D
+Mexico,Liga MX,2020/2021,8/9/2020,1:00,Cruz Azul,Club Leon,2,0,H
+Mexico,Liga MX,2020/2021,8/9/2020,1:06,Monterrey,Santos Laguna,2,2,D
+Mexico,Liga MX,2020/2021,8/9/2020,3:00,Guadalajara Chivas,Puebla,0,1,A
+Mexico,Liga MX,2020/2021,8/9/2020,18:00,U.N.A.M.- Pumas,Juarez,1,1,D
+Mexico,Liga MX,2020/2021,8/8/2020,1:30,Necaxa,Club America,1,1,D
+Mexico,Liga MX,2020/2021,8/8/2020,3:30,Mazatlan FC,Toluca,2,1,H
+Mexico,Liga MX,2020/2021,8/7/2020,1:00,Pachuca,Queretaro,1,0,H
+Mexico,Liga MX,2020/2021,8/7/2020,3:06,Club Tijuana,U.A.N.L.- Tigres,0,0,D
+Mexico,Liga MX,2020/2021,8/4/2020,1:00,Atlas,U.N.A.M.- Pumas,1,2,A
+Mexico,Liga MX,2020/2021,8/4/2020,3:00,Club Leon,Monterrey,1,0,H
+Mexico,Liga MX,2020/2021,8/3/2020,1:06,Santos Laguna,Guadalajara Chivas,2,0,H
+Mexico,Liga MX,2020/2021,8/2/2020,1:00,U.A.N.L.- Tigres,Pachuca,1,1,D
+Mexico,Liga MX,2020/2021,8/2/2020,3:00,Club America,Club Tijuana,4,0,H
+Mexico,Liga MX,2020/2021,8/2/2020,18:00,Toluca,Atl. San Luis,3,2,H
+Mexico,Liga MX,2020/2021,8/2/2020,23:00,Queretaro,Mazatlan FC,1,1,D
+Mexico,Liga MX,2020/2021,8/1/2020,1:30,Puebla,Cruz Azul,1,1,D
+Mexico,Liga MX,2020/2021,8/1/2020,3:30,Juarez,Necaxa,1,0,H
+Mexico,Liga MX,2020/2021,7/29/2020,1:00,Monterrey,Toluca,3,1,H
+Mexico,Liga MX,2020/2021,7/28/2020,0:00,Atl. San Luis,Juarez,1,1,D
+Mexico,Liga MX,2020/2021,7/28/2020,2:00,Pachuca,Club America,1,2,A
+Mexico,Liga MX,2020/2021,7/28/2020,4:00,Mazatlan FC,Puebla,1,4,A
+Mexico,Liga MX,2020/2021,7/26/2020,1:00,Guadalajara Chivas,Club Leon,0,0,D
+Mexico,Liga MX,2020/2021,7/26/2020,3:00,Club Tijuana,Atlas,3,1,H
+Mexico,Liga MX,2020/2021,7/26/2020,3:00,Cruz Azul,Santos Laguna,2,0,H
+Mexico,Liga MX,2020/2021,7/26/2020,18:00,U.N.A.M.- Pumas,Queretaro,3,2,H
+Mexico,Liga MX,2020/2021,7/25/2020,1:30,Necaxa,U.A.N.L.- Tigres,0,3,A
