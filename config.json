@@ -1,8 +1,10 @@
 {
   "DESKTOP-PB5TC2F": {
-    "git_path": "C:\\Program Files\\Git\\bin"
+    "git_path": "C:\\Program Files\\Git\\bin",
+    "repo_path": "C:\\Users\\admin\\Documents\\GitHub"
   },
   "Hihi": {
-    "git_path": "E:\\Git\\bin"
+    "git_path": "E:\\Git\\bin",
+    "repo_path": "C:\\Users\\denis\\Documents\\GitHub\\Analyzer"
   }
 }
